@@ -1,0 +1,222 @@
+team,RegistrationID,FirstName,LastName,EMail,StreetName,StreetNumber,StreetType,Apartment,City,ZIP,HomePhone,WorkPhone,PAU_Account,OwnerFirstName,OwnerLastName,age,experience,skill,goalie,position,games,groupcode,coord,Otherleague,WillingCoordinator,Shirt,Socks,RegistrationStamp,TotalCharge,Comments,TimePreference,
+1,14607,Bret,Dabel,bret@qss.com,Robin ,1124,Way,,Sunnyvale ,94087,408-732-5159,650-280-7576,,,,50,10,4,,Fullback,19,,,1,1,4,0,2012-12-02 10:21:23.007,120.0000,,1
+1,14609,Rob,Krolik,rkrolik@sbcglobal.net,Kelly,568,Way,,Palo Alto,94306,6508564343,,161825-26588,Robert,Krolik,45,10,3,,Fullback,15,robk,,1,1,0,0,2012-12-02 11:17:05.203,85.0000,,2
+1,14635,John,Plankinton,jplankjr@sbcglobal.net,Blackburn,217,Ave,,Menlo Park,94025,650 3258368,,,,,72,27,5,,Fullback,18,QUAD-CORE,,1,1,0,0,2012-12-03 12:33:54.84,95.0000,On team with Larry Yang - John has mid-stage Alzheimer's and needs to be on friends team!!!!!!,2
+1,14662,Ali,Ozer,aozer@mac.com,Bennett,23,Rd,,Redwood City,94062,6504540820,,,,,50,18,4,,Midfield,21,,,1,1,0,0,2012-12-04 08:42:43.087,95.0000,,2
+1,14706,Jigz,Mehta,jigziee@gmail.com,Charles,125,St,,Sunnyvale,94086,4084016341,,,,,36,26,2,,Forward,21,QUAD-CORE,,1,1,0,0,2012-12-04 17:37:41.427,0.0000,,2
+1,14713,Nicholas,Enthoven,nick.enthoven@gmail.com,Monroe,227 ,Dr,,Mountain View,94040,650-793-2106,,,,,45,5,2,,Forward,10,,,1,1,0,0,2012-12-04 17:47:25.21,85.0000,,2
+1,14891,Luis,Verduzco,luisaverduzco@hotmail.com,Brittan Ave,3321,?,17,San Carlos,94070,5103880023,5103880023,,,,32,10,4,,Forward,12,,,1,1,0,0,2012-12-08 16:16:45.993,85.0000,Can only play B team,2
+1,14922,Emiliano,Martinez,minomtz@gmail.com,Marmona,340,Drive,,Menlo Park,94025,650-485-2624,,,,,35,15,3,,Midfield,15,,,1,1,0,0,2012-12-10 15:27:30.09,85.0000,,2
+1,14945,Leo,Centeno,leolaura_2000@yahoo.com,Bayshore,1885 ,Rd,98,Palo Alto,94301,408-219-6044,,312644522,Leo,Centeno,47,20,5,,Any,6,,,1,1,0,0,2012-12-11 18:38:55.13,75.0000,,1
+1,15014,Mark,Lazar,mark@lazarfamily.com,Fernhill,25600 ,Drive,,Los Altos HIlls,94024,650-346-9792,650-346-9792,,Mark,Lazar,53,35,4,,Midfield,15,,,1,1,0,0,2012-12-16 20:18:20.207,75.0000,,2
+1,15025,Tim,Flagg,tim.flagg@gmail.com,Boyce,804,Ave,,Palo Alto,94301,650-326-1124,,30041219,Tim,Flagg,54,15,4,,Midfield,18,,,1,1,0,0,2012-12-17 10:19:41.22,75.0000,,2
+1,15032,Adrian,Smith,raddish1000@sbcglobal.net,Colorado,886,Ave,,Palo Alto,94303,650 208 1802,,128932-39357,Derek,Smith,54,40,3,,Midfield,11,,,1,1,0,0,2012-12-17 17:52:15.83,75.0000,,2
+1,15082,Drew,Ciancia,dciancia@yahoo.com,Bowdoin,2165,St,,Palo Alto,94306,7343551173,,30055588,Andrew,Ciancia,39,30,3,,Midfield,18,Lewis1357,,1,1,0,0,2012-12-20 21:22:01.053,75.0000,Not sure about my group code. Can I be teamed with Gulliver Lavalle and Ralph Lewis?,2
+1,15121,Tom,Gama,tjgama@att.net,Manzanita ,594 ,Ave,,Sunnyvale,94085,4085308124,,,,,46,12,3,,Midfield,18,QUAD-CORE,,1,2,0,0,2012-12-23 11:56:50.527,85.0000,,2
+1,15286,Larry,Yang,lsm177@yahoo.com,san luis,1983,ave,31,mountain view,94043,650-493-1880,,,,,47,20,3,,Midfield,16,QUAD-CORE,,1,1,0,0,2012-12-27 00:37:27.787,85.0000,,1
+1,15290,Frank,Prince,breesun@yahoo.com,Middle,560,Road,,Belmont,94002,650-520-3250,,,,,47,3,3,,Midfield,16,,,1,1,4,0,2012-12-27 14:44:40.433,115.0000,,2
+1,15294,Danny ,Trapani,datrap03@yahoo.com,Wren ,943,Drive,,San Jose,95125,925-989-3755,,,,,28,11,3,,Forward,21,bruins1234,,1,1,0,0,2012-12-27 18:35:35.817,85.0000,,1
+1,15329,tony,pereur,tpap1011@gmail.com,nancy,12,way,,menlo park,94025,6505210210,,,,,39,10,3,,Fullback,13,california,,1,1,0,0,2012-12-30 13:05:19.027,85.0000,,2
+1,15330,Gary,Sevounts,gsevounts@aol.com,Los Gatos Almaden,1775,Rd,,San Jose,95124,408-458-6175,,,,,43,32,4,FT,Goalie,12,California,,1,1,0,0,2012-12-30 17:28:50.973,85.0000,I prefer playing a goalie.,2
+2,14579,Alejandro,Munoz,alejandro.munoz@gmail.com,Calderon,210,Ave,21,"Mountain View, CA",94041,4087108694,,,,,31,5,3,,Any,19,,,1,1,0,0,2012-12-01 12:31:08.593,95.0000,,2
+2,14624,Scott,Young,scott1337@hotmail.com,Foster City,1019,Blvd,A,Foster City,94404,9099088673,,,,,27,5,3,,Fullback,21,,,1,1,4,0,2012-12-02 21:48:11.433,125.0000,,2
+2,14674,Bruce,Graham,graham.brucek@gmail.com,Tennyson,678,Ave,,Palo Alto,94301,650-521 0278,415 308 8118,30023260,Bruce,Graham,53,25,3,,Midfield,10,,,1,1,0,0,2012-12-04 16:56:05.367,75.0000,,2
+2,14683,Chris,Larmore,chris.larmore@gmail.com,Oak ,301,Ave,B,Palo Alto,94061,2816059,2816059,688590-99483,,,29,3,3,,Forward,16, ,,1,2,0,0,2012-12-04 17:04:27.877,75.0000,Thanks! You guys are great!,2
+2,14685,Surendra,Lele,sglele@gmail.com,Regnart,21763,Court,,Cupertino,95014,408 255 1709,408 839 6051,,,,58,20,4,,Fullback,12,,,1,1,0,0,2012-12-04 17:06:16.977,85.0000,,2
+2,14820,Alan,Schenck,aschenck771@gmail.com,Kimberly,1784,Drive,,Sunnyvale,94087,408-739-9134,408-219-3438,,,,58,9,5,,Fullback,15,,,1,1,0,0,2012-12-06 00:12:09.283,85.0000,,1
+2,14847,Juan,Garona,jemlgarona@gmail.com,Deoara ,551,Drive,,Los Altos,94024,650 964 5361,650 934 7962,,,,60,50,3,FT,Goalie,19,Alan 123,,1,1,0,0,2012-12-06 20:47:22.02,85.0000,,2
+2,14849,alan,brush,alanbrush@gmail.com,hawthorne,275,ave,115,palo alto,94301,650-2694140,,30045531,alan,brush,50,48,3,,Midfield,10,alan123,,1,1,0,0,2012-12-06 23:55:05.26,75.0000,,2
+2,14877,Ashot,Andreasyan,ashota@hotmail.com,Homestead,22330,Road,122,Cupertino,95014,4087333876,,,,,48,25,2,,Midfield,10,,,1,1,0,0,2012-12-07 19:02:38.76,85.0000,,2
+2,14883,Thierry,Hernoult,t.hernoult@comcast.net,Holly ,4168,Dr,,San Jose,95127,4082515789,,,,,54,4,3,,Midfield,13,,,1,1,0,0,2012-12-07 23:37:41.353,85.0000,,2
+2,14951,Jim,Scheinman,jim@scheinman.net,ARIC,26400 ,Lane,,LOS ALTOS HILLS,94022,6502182244,6502182244,,,,47,5,3,,Midfield,15,mrp,,1,1,0,0,2012-12-12 04:06:15.41,75.0000,,2
+2,15005,Marc,Schoenen,mschoenen@google.com,Grove,3908 Grove,Ave,,Palo Alto,94303,2035054011,2035054011,30055713,Veronica,Oropeza,37,5,3,,Fullback,16,,,1,1,0,0,2012-12-16 01:15:01.487,75.0000,,2
+2,15018,david,maselli,dm@soletan.com,ramona ,3532,st,,Palo Alto,94306,650-858-2178,650 996-5203,30015019,Kathryn/David, Maselli,48,10,3,,Forward,16,MRP,,1,1,0,0,2012-12-16 23:48:51.66,75.0000,,1
+2,15031,Michael,Eldredge,dredge@gmail.com,Vine,231,St,,Menlo Park,94025,6508682450,,,,,54,29,4,,Midfield,18,,,1,1,0,0,2012-12-17 17:33:38.02,85.0000,thanks!,2
+2,15075,Brandon,Graffeo,mbgraffeo@gmail.com,Gary,480,Court,,Palo Alto,94306,917-509-8111,,30061918,Brandon,Graffeo,39,10,3,,Midfield,15,mrp,,1,1,0,0,2012-12-20 18:02:18.183,75.0000,,2
+2,15076,Jason,Ko,jassko2@gmail.com,Crystal Springs,2000 ,Road,2823,San Bruno,94066,510-333-1661,,,,,44,4,2,,Fullback,20,,,1,1,0,0,2012-12-20 19:12:18.923,85.0000,,2
+2,15101,Hyun,Choe,hhchoe82@gmail.com,Village,1101,Dr,17,Belmont,94002,818.949.8601,,NA,,,31,10,3,,Midfield,12,alan123,,1,1,0,0,2012-12-22 01:32:13.847,85.0000,,2
+2,15292,Hanan,Beliak,hananregister@gmail.com,Budd,350,ave,P6,Campbell,95008,3104908411,,,,,32,5,4,,Fullback,17,HBB10,,1,1,3,0,2012-12-27 16:32:20.1,115.0000,,2
+3,14596,Fuad,Abu Nofal,fabunofal@yahoo.com,Highlands,866,Cir,,Los Altos,94024,650 969 4786,650 469 3585,,,,55,10,3,,Any,15,,,1,1,0,0,2012-12-01 23:13:56.777,0.0000,,1
+3,14614,Luke,Thivierge,luke.thivierge@mac.com,West Remington ,1032 ,Drive,1-11,Sunnyvale,94087,607-644-9028,,,,,33,4,4,,Midfield,18,,,1,1,3,0,2012-12-02 13:59:37.19,125.0000,,2
+3,14621,Ilya,Semin,isemin@gmail.com,Azure,936,st,B7,Sunnyvale,94087,8572888123,8572888123,,,,28,3,4,,Forward,21,,,1,1,3,0,2012-12-02 20:30:48.297,125.0000,,1
+3,14677,Chuck,Gilbert,chuck@onepost.net,Sutcliff,4787,Ave.,,San Jose,95118,408-569-3862,408-569-3862,,,,54,47,2,FT,Goalie,18,withchuck,,1,3,0,0,2012-12-04 16:57:49.27,85.0000,"I can go to all games at Mayfield, but could miss some games at other locations. (grass allergies).",2
+3,14700,Octavian,Dumitran,daniel.dumitran@gmail.com,Mouton,924,Circl,,East Palo Alto,94303,6502096514,6502096514,,,,30,1,5,,Midfield,21,Romania,,1,1,0,0,2012-12-04 17:21:10.137,75.0000,,2
+3,14712,Mark,Wheeler,mdwheel@mfls.com,Saratoga Los Gatos,18190,Rd,,Monte Sereno,95030,510 917 5017,,,,,46,30,2,,Midfield,14,ERL4009,,1,1,0,0,2012-12-04 17:46:49.497,85.0000,,2
+3,14774,Florin,Constantin,florharv@gmail.com,Lytton,130,Ave,,Palo Alto,94301,6178945201,,000030060733,Gabriel,Constantin,33,5,4,,Fullback,14,Romania,,1,1,0,0,2012-12-05 03:33:07.78,75.0000,,2
+3,14863,Kalidip,Choudhury,kalidip@yahoo.com,Santa Ana,2380,St,,Palo alto,94303,6508529085,5106129644,30047900,Sangeeta,Choudhury,49,20,3,,Midfield,10,,,1,1,0,0,2012-12-07 13:21:38.02,75.0000,,2
+3,14869,Thomas,Boyd,thomas.boyd@gmail.com,Albertsworth,10450,Lane,,Los Altos Hills,94024,650-917-9270,650-619-9011,,,,44,31,4,,Midfield,18,,,1,1,0,0,2012-12-07 16:06:21.453,75.0000,,2
+3,14876,Jinghu,Luo,luodale@gmail.com,halford,1901,ave,156,santa clara,95051,4085683612,,,,,36,18,4,,Fullback,18,,,1,1,0,0,2012-12-07 18:14:04.977,85.0000,,2
+3,14895,Chris,Hetterly,hetterly@sbcglobal.net,Colorado,813,Ave,,Palo Alto,94303,650-856-0516,,30008596,Chris,Hetterly,46,1,4,,Any,15,mrp,,1,1,0,0,2012-12-09 00:44:47.773,75.0000,"I'd prefer to play early games, I coach a spring girls team that has games on Sundays.",2
+3,14900,Nathan,Fitzsimmons,nathan.fitzsimmons@gmail.com,Sharon Park,350,Dr,H306,Menlo Park,94025,6506465296,,,,,32,26,1,,Forward,12,ERL4009,,1,1,0,0,2012-12-09 02:07:03.127,85.0000,,2
+3,14910,Jim,Stabile,jim@planeshavings.com,Clark,530 ,Court,,Los Altos,94024,650 948 6971,,,,,51,28,3,,Forward,10,dweebs,,1,1,0,0,2012-12-09 20:44:26.247,85.0000,,2
+3,14957,Russell,Jones,russellkjones@gmail.com,Seale,890,Ave,,Palo Alto,94303,650 269 3736,650 269 3736,30028 553,Russ,Jones,50,2,5,,Fullback,17,withchuck,,1,1,0,0,2012-12-12 14:41:43.543,75.0000,"I am in good shape for 49 yr old, and coached 6 seasons of soccer and played 5 PAASL seasons",2
+3,15052,Johannes,Klem,familyklem@gmail.com,Los Robles,748,Ave,,Palo Alto,94306,650-856-7422,,20760327261,Johannes,Klem,49,5,3,,Midfield,8,,,1,1,0,0,2012-12-19 00:39:17.78,75.0000,,2
+3,15070,Mauro,Garcia,mgmouser@yahoo.com,Saddle Rack ,1310 ,St.,252,San Jose,95126,408-998-7048,408-667-4607,,,,39,10,3,,Forward,17,,,1,1,0,0,2012-12-20 10:03:17.977,85.0000,,2
+3,15216,Andy,Walsh,awalsh@nvidia.com,Jefferson,3907,Ave,,Emerald Hills,94062,408.887.6380,408.887.6380,,,,46,1,4,,Fullback,10,dweebs,,1,1,0,0,2012-12-24 15:51:25.697,85.0000,,2
+3,15271,Elliot,Weil,lglzdgmbln@yahoo.com,Reedley,5230,Way,,CASTRO VALLEY,94546,510-415-9848,,,,,45,35,5,,Any,15,,,1,1,0,0,2012-12-26 12:57:01.15,90.0000,,2
+3,15297,James,Cook,jamesfelixcook@yahoo.com,College,730,Ave,,Palo Alto,94306,6504551855,,30028138,James,Cook,46,20,3,,Midfield,12,mrp,,1,3,0,0,2012-12-27 23:02:34.753,75.0000,"Just finished playing in my seventh season, thanks for organizing.",2
+4,14694,David,Langer,david@L4Sinc.com,Casanova,3702,Drive,,San Mateo,94403,6503452200,4156520940,,,,45,20,3,,Fullback,20,mike1234,,1,1,0,0,2012-12-04 17:12:08.23,85.0000,Thanks!  Great league!,2
+4,14721,Michael,Bruce,mtbspam-paasl@yahoo.com,Sapphire,514,St,,Redwood City,94062,6503488665,6504307892,,,,39,6,4,FT,Fullback,16,mike1234,,1,1,0,0,2012-12-04 18:06:28.48,85.0000,,2
+4,14781,Leo,Merken,leo.merken@gmail.com,De Soto,707,Drive,,Palo Alto,94303,650-328-1798,917-572-6597,201536-43284,Leo,Merken,49,40,3,,Forward,20,,,1,3,4,0,2012-12-05 08:32:57.48,100.0000,I would like to get an extra shirt.  I am number 22.,2
+4,14858,Rigoberto,Cardenas,rcardenas12468@gmail.com,Lakeside,4004,Dr,,San Jose,95148,408-223-0579,,,,,43,20,2,,Any,11,LKJHg12#,,1,1,0,0,2012-12-07 11:34:38.263,85.0000,"Need to play with Ricardo Cardenas, We are leaving at the same house",2
+4,14859,Ricardo,Cardenas,rcardenas12468@gmail.com,Lakeside,4004,Dr,,San Jose,95148,408-223-0579,,,,,45,20,2,,Any,11,LKJHg12#,,1,1,0,0,2012-12-07 11:38:58.31,85.0000,"Need to play with Rigoberto Cardenas, We are leaving at the same house",2
+4,14880,Calvin,Finch,cfinch@cpp.com,Yorkton,2677,Drive,,Mountain View,94040,650.938.6416,650.691.9130,,,,53,15,4,,Fullback,17,Cooley,,1,3,0,0,2012-12-07 20:49:52.237,85.0000,,2
+4,14885,Eric,Jensen,ejensen@cooley.com,Charleston,717,Ct,,Palo Alto,94303,6508582130,6508435049,130411-40836,Teresa,McCann,51,44,2,,Forward,15,Cooley,,1,1,0,0,2012-12-08 00:42:35.77,75.0000,,2
+4,14903,John,Williamson,jbwilliamson08@gmail.com,Middlefield,2850,Road,120,Palo Alto,94306,5593128006,,30060295,John,Williamson,27,1,4,,Any,18,,,1,1,0,0,2012-12-09 11:25:59.41,75.0000,,2
+4,14987,Nathan,Clark,theman6667@yahoo.com,Hemlock,508,Ave.,,South San Francisco,94080,6506197792,,,,,30,10,3,,Forward,15,MACS,,1,1,0,0,2012-12-14 12:17:53.567,85.0000,,2
+4,14999,John-Mark,Kane,whisperofgrace@gmail.com,Redmond,1462,Ave,,San Jose,95120,4085406481,4087128449,,,,32,20,3,,Midfield,13,,,1,2,0,0,2012-12-15 11:50:11.6,85.0000,,2
+4,15023,sungho,kim,sungho63@gmail.com,bret harte ,1873 ,st,,Palo Alto,94303,6503299771,,CA,sungho,kim,50,2,4,,Midfield,16,,,1,1,2,0,2012-12-17 07:31:04.463,105.0000,,2
+4,15041,Michael,Havern,mhavern11@aol.com,Ramona,1139,St.,,Palo Alto,94301,650-325-0777,,114790-25054,Michael,Havern,62,30,4,,Fullback,18,,,1,2,0,0,2012-12-18 03:37:37.41,75.0000,,2
+4,15060,Adam,Olshen,olshen@yahoo.com,Bryson,615,Ave,,Palo Alto,94306,6505613551,,30004196 ,Adam,Olshen,45,20,4,,Midfield,18,,,1,1,0,0,2012-12-19 17:24:16.813,75.0000,,2
+4,15096,Carsten,Ribbe,cribbe@ssi.samsung.com,Loma Verde,592,Ave,,Palo Alto,94306,650-494-1285,408-544-4881,30010196,Suzanne,Ribbe,49,3,5,,Fullback,8,,,1,1,0,0,2012-12-21 19:52:26.423,75.0000,Can't play until March,2
+4,15110,Hilario,Jauregui,rwcjauregui@gmail.com,James ,1425,Ave.,,Redwood City,94062,650-363-8823,650-222-4786,,,,55,5,5,,Forward,15,,,1,1,0,0,2012-12-22 17:54:14.717,85.0000,,2
+4,15224,Jack,Bungarden,cbungarden@aol.com,Fernando ,455,Ave,,Palo Alto,94306,650-494-6066,650-329-3836,30001838,Caterina,Bungarden,57,6,5,,Midfield,15,,,1,1,0,0,2012-12-24 17:41:44.393,75.0000,,2
+4,15291,Andy,Velasquez,mcewok@gmail.com,Santa Teresa ,7047,Blvd,,san jose,95139,4084065917,,,,,30,15,3,,Forward,10,MACS,,1,1,0,0,2012-12-27 15:27:08.62,85.0000,I'm pumped to play soccer again!,2
+4,15323,Jay,Jacinto,manjingo@gmail.com,Menalto,2370,Ave,,East Palo Alto,94303,6502745038,,,,,34,6,2,,Midfield,19,B47,,1,3,0,0,2012-12-29 22:05:23.873,75.0000,Time is a muffin,1
+5,14592,Leon,Leong,lyleong@pacbell.net,Byron,138,St,,Palo Alto,94301,650-224-4574,,3000-1448,Leon,Leong,57,2,5,,Fullback,11,,,1,1,0,0,2012-12-01 16:43:40.853,85.0000,B league please.,2
+5,14600,Antonino,Cacace,trafalgartony@hotmail.com,Ridgeway,300,Rd,,Woodside,94062,650 7010439,650 7010439,,,,40,35,4,,Forward,18,,,1,1,0,0,2012-12-02 01:35:14.603,95.0000,,1
+5,14603,Dipan,Patel,dipan.patel@permira.com,woodland ,1205,ave,,Menlo Park,94025,6507047772,,,,,30,20,3,,Midfield,18,,,1,1,3,0,2012-12-02 02:25:53.47,125.0000,,2
+5,14613,Michael,Elashoff,elashoff@yahoo.com,Monaco,229,Drive,,Redwood City,94065,6509953878,,,,,42,30,3,FT,Goalie,16,,,1,1,0,0,2012-12-02 13:30:44.413,95.0000,,1
+5,14660,John,Gatta,johngatta@sbcglobal.net,Wallnut ,1850,Drive,,Mountain View,94040,650-968-8495,650-852-6927,,,,51,5,4,,Forward,18,,,1,1,0,0,2012-12-04 04:49:02.837,95.0000,,1
+5,14679,Kaveh,Badiei,kbadiei@rutan.com,Lynton,211,Ave.,,San Carlos,94070,650-610-9184,,,,,38,25,3,,Midfield,17,,,1,3,0,0,2012-12-04 17:00:06.897,85.0000,,2
+5,14743,Bob,Pratt,rpratt@stanfordalumni.org,Miller ,4374,Court,,Palo Alto,94306,650-255-1588,650-255-1588,119360-28443,Rick,Reddy,46,38,3,,Forward,21,skiutah,,1,3,0,0,2012-12-04 20:47:54.737,75.0000,,1
+5,14855,Joe,Neil,josephneil@gmail.com,Ontario ,1576,Dr,1,Sunnyvale,94087,6504921129,6504921129,,,,62,55,5,,Any,18,Drew1234,,1,1,0,0,2012-12-07 01:22:51.53,85.0000,,1
+5,14893,Voitek,Sobieszczanski,wojtek.sobie@gmail.com,South Bayview,183,Ave,8,Sunnyvale,94086,9253233534,,,,,32,15,2,,Forward,21,,,1,1,0,0,2012-12-08 21:35:37.977,85.0000,,2
+5,14936,John,Bors,bors@chemcosystems.com,La Questa,250,Way,,Woodside,94062,650-851-0250,650-261-3790,,,,58,8,5,,Fullback,19,,,1,1,0,0,2012-12-11 12:17:40.077,85.0000,,2
+5,14939,Torsten,Zeppenfeld,tzeppy@gmail.com,Oak Park,544,Way,,Emerald Hills,94062,6502608291,,,,,46,8,4,,Fullback,15,steelers2013,,1,1,0,0,2012-12-11 12:55:20.87,85.0000,,2
+5,14956,Roger,Pierno,rpierno@valleywater.org,College,1200,Ave,,Palo Alto,94306,6504249612,6508677597,30038444,Roger,Pierno,55,5,3,,Midfield,15,,,1,1,0,0,2012-12-12 13:40:36.66,75.0000,,2
+5,14991,oliver,theil,otheil@sfsymphony.org,california,870,ave,,palo alto,94306,6503648804,4155035426,152338-34742,OLIVER ,THEIL,46,9,4,,Fullback,10,steelers2013,,1,1,0,0,2012-12-14 18:45:26.99,75.0000,,2
+5,15055,Stuart,Reid,stuart.reid@sbcglobal.net,Clarendon,4761,Dr.,,San Jose,95129,4083662330,,,,,49,41,5,,Midfield,18,,,1,1,0,0,2012-12-19 12:14:35.89,85.0000,,2
+5,15064,Josef,Fischer,fischer.josef@gmail.com,Swain,257,Way,,Palo Alto,94304,6503866039,,30047604,Nicolas,Martinez,31,8,3,,Fullback,15,liverpool01234,,2,1,0,0,2012-12-19 21:45:33.897,75.0000,,1
+5,15090,Daniel,Cornish,cornish.daniel@gmail.com,Coleman,6,Place,3,Palo Alto,94025,4065807086,,7411615834-1,Courtney,Reichhardt,28,18,2,,Any,16,liverpool01234,,1,1,0,0,2012-12-21 14:39:37.883,75.0000,,1
+5,15276,Efren,Garcia-Campos,efrengarciacampos@yahoo.com,Mallard,931,Lane,,Palo Alto,94303,650-867-8682,,115918-69161,Stephanie,Wansek,41,34,3,,Midfield,18,Melesio Campos,,1,1,0,0,2012-12-26 17:56:42.39,75.0000,I would like to play with Melesio Campos.,2
+5,15277,Melesio,Campos,jesslynnerose@yahoo.com,Oak Hill,4196,Ave,,Palo Alto,94306,650-485-2512,,30041827,Joel,Rosenberg,53,42,3,,Fullback,20,Melesio Campos,,1,1,0,0,2012-12-26 18:02:22.283,75.0000,I would like to play with Efren Garcia-Campos.,2
+5,15300,Doug,Corl,dougcorl@sbcglobal.net,El Centro,3883,St,,Palo Alto,94306,650-424-8911,650-424-8911,117159-27450,PATRICIA,CORL,61,50,4,,Midfield,18,,,1,1,0,0,2012-12-28 12:55:55.13,75.0000,,2
+6,14588,christophe,suchet,cdsuchet@comcast.net,Somerset,41,place,,Palo Alto,94301,6507145534,,30049849 ,Christophe,Suchet,44,30,2,,Midfield,18,GRAHAMBO,,1,2,0,0,2012-12-01 14:33:30.14,85.0000,,2
+6,14590,Jean marc,Olivot,jmolivot@gmail.com,Leland ,311,Av,,Menlo park,94025,6507437826,,,,,43,4,4,,Fullback,17,GRAHAMBO,,1,1,0,0,2012-12-01 15:07:46.01,95.0000,I would like to be in the same team that christophe suchet thanks,2
+6,14605,carlos,patriawan,cpatriaw@gmail.com,azucar,130,ave,,san jose,95111,4086275831,,,,,38,12,4,,Any,15,,,1,1,0,0,2012-12-02 02:54:42.69,95.0000,,1
+6,14641,Steve,Kelsey,kelsatmontara@aol.com,Hamilton ,1468,Ave,,Palo Alto,94301,6507046488,6507046488,30041065,Allison,Kelsey,52,40,4,pt,Midfield,18,,,1,3,0,0,2012-12-03 13:04:12.687,85.0000,,2
+6,14670,Steve,Renaker,srenaker@gmail.com,Guinda,623,St,,Palo Alto,94301,650-327-2230,415-990-7644,30028723,Pearl,Renaker,44,10,3,,Midfield,10,,,1,1,3,0,2012-12-04 15:21:49.56,110.0000,,1
+6,14693,irakli,iosebashvili,irak7i@gmail.com,Compass,1111,Lane,204,Foster City,94404,4156244717,,,,,34,5,3,,Midfield,20,RamRod,,1,3,0,0,2012-12-04 17:11:40.937,85.0000,GOOOAL!,2
+6,14723,Helcio,Nobre,helcio.nobre@gmail.com,Forge,20647 ,Way,254,Cupertino,95014,4088340866,,,,,41,30,4,,Midfield,14,MZMB,,1,1,0,0,2012-12-04 18:23:32.5,85.0000,,2
+6,14747,Richard,Guyon,rguyon@pacbell.net,Boranda,1109,Ave,,Mountain View,94040,650-938-8855,,,,,60,23,4,,Fullback,20,,,1,1,0,0,2012-12-04 21:04:36.78,85.0000,,2
+6,14769,Gui,Bastos,guibastos@gmail.com,Forest ,365,Ave,2C,Palo Alto,94301,650 906-9253,408 431-9649,185113-28516,Sonia,Wong,39,5,4,,Midfield,17,MZMB,,1,1,0,0,2012-12-05 00:59:47.943,75.0000,,2
+6,14823,Marcelo,Clerici-Arias,marcelo@stanford.edu,Escondido,658,Road,#2,Palo Alto,94305,650-497-0268,,N/A,Stanford resident,,48,42,5,,Fullback,10,,,1,2,0,0,2012-12-06 00:46:37.397,75.0000,,1
+6,14923,Michael,Etz,michael.r.etz@lmco.com,Box,PO,62156,,Sunnyvale,94088,408 338 8722,,,,,41,30,3,,Fullback,18,MZMB,,1,1,0,0,2012-12-10 16:55:00.303,85.0000,,2
+6,14930,Scott,Sutherland,suthersm@stanford.edu,Sherwood,420,Way,,Menlo Park,94025,650-473-9448,,,,,38,8,3,,Midfield,18,GRAHAMBO,,1,1,0,0,2012-12-10 22:15:16.46,85.0000,,2
+6,14978,Frederick,Naujoks,rickabone@yahoo.com,Shipley,277,St,E,San Francisco,94107,8057081144,,,,,35,28,4,,Midfield,12,RamRod,,1,1,0,0,2012-12-13 18:50:56.35,85.0000,,2
+6,15010,Tom,Miller,trmhabu@earthlink.net,Lowell,131,Ave,,Palo Alto,94301,650 326-1241,408 345-8278,130138-40563,Tom,Miller,61,20,4,pt,Fullback,18,,,1,1,0,0,2012-12-16 15:14:40.693,75.0000,,2
+6,15013,Kellen,Glinder,theglinders@mac.com,Concord,323,Dr.,,Menlo Park,94025,650-566-1960,,,,,42,30,2,,Forward,16,GRAHAMBO,,1,1,0,0,2012-12-16 18:20:05.86,85.0000,,2
+6,15035,jurek,aleksander,hdstudy@aol.com,w charleston,460 ,rd,,palo alto,94306,6508338700,,162196-25781,jack,romiszewski,42,30,2,,Forward,12,,,1,1,0,0,2012-12-17 20:46:31.073,75.0000,,2
+6,15047,Mark,Minkowski,mark.minko@gmail.com,Wilmington,1013,Way,,Redwood City,94062,650-369-9576,650-852-2819,,,,53,21,3,,Midfield,16,,,1,1,0,0,2012-12-18 20:13:02.563,85.0000,,2
+6,15053,Joel,Massuda,joelmassuda@gmail.com,Glen Como,2917,Way,,San Jose,95148,4084254260,,,,,28,8,3,,Midfield,17,ramrod,,1,1,0,0,2012-12-19 01:27:35.873,85.0000,,2
+7,14597,Robert,Koeten,rob@koeten.net,Linfield,159,Drive,,Menlo Park,94025,650-799-1059,,,,,49,11,4,,Any,20,,,1,1,0,0,2012-12-01 23:29:57.787,95.0000,,2
+7,14627,fred,smith,fredsmith11460@comcast.net,magdalena,11460,road,,los altos hills,94024,6509488820,,,,,76,40,3,,Fullback,16,,,1,1,0,0,2012-12-02 23:06:39.493,85.0000,,1
+7,14746,Hamid,Salehizadeh,hamid_salehizadeh@yahoo.com,Gordon Avenue,2130,St,,Menlo Park,94025,408-431-2030,,,,,50,30,3,,Midfield,21,,,1,1,0,0,2012-12-04 21:01:52.813,85.0000,,2
+7,14750,william,mayfield,wbmayfield@att.net,Josina ,742,Ave,,Palo Alto,94306,650-494-7595,,30031303,william,mayfield,69,30,4,,Fullback,12,,,1,3,0,0,2012-12-04 21:33:49.647,75.0000,,1
+7,14809,Chris,Middlemass,chris.middlemass@gmail.com,Brecon,2516,Court,,Castro Valley,94546,510-266-2992,,,,,31,21,3,,Forward,18,cerillo,,1,1,0,0,2012-12-05 18:54:56.48,90.0000,,2
+7,14889,Martin,McNealis,martin.mcnealis@gmail.com,Harriet Street,1200,Home,,Palo Alto,94301,650-326-5436,408-526-5190,30048775,Roopa,McNealis,46,35,4,,Midfield,10,gooners,,1,1,0,0,2012-12-08 14:45:52.14,75.0000,,1
+7,14981,Alper,Ilkbahar,alper@sbcglobal.net,Deer Park,17259,Road,,Los Gatos,95032,408-3565954,,,,,46,10,4,,Fullback,8,baharatesi,,1,1,0,0,2012-12-14 01:58:06.177,85.0000,,2
+7,14982,Ates,Gurcan,hagurcan@comcast.net,Old Orchard,135,Ct,,Los Gatos,95032,4083567740,,,,,50,34,3,,Forward,18,baharatesi,,1,1,5,0,2012-12-14 02:10:27.583,110.0000,,2
+7,14985,Edward,Chien,edchien@cs.stanford.edu,Payne,1160,Drive,,Los Altos,94024,650-619-4929,,,,,39,10,2,,Midfield,17,,,1,1,0,0,2012-12-14 11:22:50.6,85.0000,,2
+7,15093,Leon,Su,leonsu81@yahoo.com,Glen Mead,81,Ct,,Mountain View,94040,4088935945,4088935945,,,,41,5,3,,Any,12,,,1,1,0,0,2012-12-21 17:42:43.507,85.0000,,2
+7,15128,Pastor ,Guzman,pguzman@seq.org,Windermere ,1118,Ave.,,Menlo Park,94025,650-323-7582,,,,,53,4,4,,Midfield,21,Pastor7582,,1,1,0,0,2012-12-23 23:19:13.417,85.0000,,1
+7,15279,Walter Norm,Leclerc,leclercs@sbcglobal.net,Kipling,3358,St.,,Palo Alto,94306,650-494-1946,,30052329,Kelly,Leclerc,48,42,4,,Midfield,16,,,1,1,0,0,2012-12-26 18:17:34.607,75.0000,,2
+7,15281,drew,gale,kim_limbrick@hotmail.com,cedar,1158,st,,palo alto,94301,6503253035,,123940-35403,lynne,courts,26,5,3,pt,Any,14,gooners,,1,1,5,0,2012-12-26 20:02:50.333,105.0000,,2
+7,15289,Gary,Gamitian,ggsunw@yahoo.com,Marlin,767,Ave,,Foster City,94404,6503491184,,,,,41,22,4,,Midfield,18,hawk,,1,1,0,0,2012-12-27 13:31:05.963,85.0000,,2
+7,15306,Rodolfo,Medina,pastorguzman@msn.com,Sevier ,1332,Ave,,Menlo Park,94025,642-4334,,,,,45,2,2,,Midfield,21,Pastor7582,,1,1,0,0,2012-12-28 17:52:15.997,85.0000,,1
+7,15307,Earl,Grogan,yankeeh8er4ever@gmail.com,Compass ,1171,Lane,312,Foster City,94404,650 465-0970,650 655-3611,,,,42,15,3,FT,Goalie,15,,,1,1,0,0,2012-12-28 19:01:24.043,85.0000,"My wife plays women's league, so hopefully we don't have too many conflicts",1
+7,15314,Armando,Cerrillo,jacerrillo@rebeljedi.com,Second,676,Ave,,Redwood City,94063,6508874850,,,,,33,10,3,,Midfield,21,cerillo,,1,1,3,0,2012-12-29 00:59:00.583,115.0000,,1
+7,15326,Matthew,Papakipos,matt@papakipos.com,Seale,818,Ave.,,Palo Alto,94303,650 8629855,,133515-40529,Erika,Papakipos,44,15,4,,Fullback,15,,,1,1,3,0,2012-12-29 23:22:00.03,100.0000,,2
+8,14593,Alex,Limberis,alex@limberis.net,Rosecrest,1456,Terr,,San Jose,95126,4089930770,4088588108,,,,58,40,4,,Forward,10,,,1,1,0,0,2012-12-01 16:48:09.747,95.0000,,1
+8,14599,Ray,Lin,raylin@gmail.com,Grove,3825,Ave,,Palo Alto,94303,6508131310,6505760960,30040662,Raymond,Lin,47,2,5,,Any,15,,,1,1,4,0,2012-12-02 00:08:22.527,115.0000,,1
+8,14664,Apo,Gedik,apogedik@yahoo.com,cereza ,796 ,drive,,palo alto,94306,650 813 1678,408 826 3204,159968-26795,Cetin,Diken,53,23,4,,Fullback,19,DikenBecan,,1,1,0,0,2012-12-04 11:55:34.367,85.0000,I am more than 50 years old.,2
+8,14666,birol,becan,birolbecan@gmail.com,pasa robles ,225 ,ave,,los altos,94022,650-559-1569,,,,,49,30,4,,Forward,21,dikenbecan,,1,1,0,0,2012-12-04 12:35:35.477,95.0000,,2
+8,14691,Andrew,Karam,andrew.karam@gmail.com,Alma,101,St.,602,Palo Alto,94301,6507149144,,N/A,Praveen,Moudgal,31,7,3,,Any,15,chump change,,1,1,0,0,2012-12-04 17:11:25.78,75.0000,,1
+8,14752,Barry,Hart,hartb88@yahoo.com,Palo Alto,920,Ave,,Palo Alto,94301,650-321-8399,814-6014,167748-38641,Barry,Hart,48,20,3,,Fullback,15,,,1,1,0,0,2012-12-04 21:57:21.003,75.0000,,1
+8,14832,Glenn,Scheitrum,glenn.scheitrum@varian.com,Lexington,1956,Ave,,San Mateo,94402,650-341-4245,,,,,64,34,4,,Midfield,4,,,1,1,0,0,2012-12-06 12:09:53.073,85.0000,,2
+8,14854,Chet,Diken,cd2065@gmail.com,Cereza,796,Dr,,Palo Alto,94306,650-813-1678,408-499-4303,30006720,Cetin,Diken,55,30,3,,Midfield,10,DikenBecan,,1,1,0,0,2012-12-07 00:53:54.657,75.0000,,2
+8,14886,Brent,Blasnek,blasnek@yahoo.com,Harvard,808,Road,,San Mateo,94402,650-548-1972,650-432-1607,,,,45,34,3,,Midfield,18,brent,,1,1,0,0,2012-12-08 00:52:21.83,85.0000,Group includes Lee Tavrow,2
+8,14913,Lee,Tavrow,tavrow@comcast.net,Sunkist,41,Lane,,Los Altos,94022,408-482-4621,,,,,49,15,3,,Midfield,15,brent,,1,2,0,0,2012-12-09 22:59:04.213,85.0000,B League,2
+8,14958,Michael,Turner,keeper0@yahoo.com,South Bayview,255,Ave.,D,Sunnyvale,94086,408-673-8748,,,,,41,25,2,FT,Goalie,10,Dexter,,1,2,0,0,2012-12-12 16:50:42.73,85.0000,,1
+8,14962,Ryan,Findley,findleyr@sonic.net,Aram,2263,Ave,,San Jose,95128,4082876585,,,,,37,20,2,,Fullback,21,Dexter,,1,2,0,0,2012-12-12 19:36:52.96,85.0000,,1
+8,14970,Jim,Tooley,jtooley@aol.com,Barron,520,ST,,Menlo Park,94025,650-325-8454,,,,,50,33,3,,Midfield,14,,,1,1,0,0,2012-12-13 09:54:22.277,85.0000,,2
+8,14995,Pierfrancesco,Landolfi,ziopiero70@yahoo.com,Clara,907,Dr,,Palo Alto,94303,650-858-1620,,30007280,Pierfrancesco,Landolfi,43,35,2,,Fullback,15,,,1,1,0,0,2012-12-14 22:23:12.67,75.0000,,2
+8,15091,Malcolm,Smith,patai12@yahoo.com,Claremont,7723,Ave,,Berkeley,94705,4158298384,,,,,48,40,3,,Forward,18,,,1,1,0,0,2012-12-21 15:35:23.697,85.0000,,2
+8,15097,Ray,Poudrier,raypou@gmail.com,Butcher,3560,Dr,,Santa Clara,95051,6094256941,,,,,29,23,1,,Any,21,nvapt123,,1,1,0,0,2012-12-21 21:00:25.68,85.0000,,2
+8,15098,Jaime,Rodriguez,jrodriguez73@hotmail.com,Shreen,1612,Ct,,San Jose,95124,4084862563,,,,,40,25,3,,Midfield,18,nvapt123,,1,1,4,0,2012-12-21 21:04:59.653,115.0000,,2
+8,15119,David,Gauthier,babar@simpleweblog.com,Parish,10202,Pl,,Cupertino,95014,408-781-1469,,,,,36,13,4,,Fullback,12,naehas,,1,2,0,0,2012-12-23 02:34:10.017,85.0000,,2
+9,14583,Nariman,Shariat,narimanshariat@yahoo.com,Lindenbrook,300,Ct,,Woodside,94062,650-315-8072,,,,,31,12,3,,Midfield,16,blue1234,,1,1,0,0,2012-12-01 13:14:57.12,95.0000,,2
+9,14710,Paul,Holzhauser,paul@mathewscarlsen.com,South Bernardo,1111,Ave,,Sunnyvale,94087,408-732-5729,650-856-6200,,,,59,40,4,pt,Fullback,19,estimate,,1,1,0,0,2012-12-04 17:45:37.51,85.0000,,2
+9,14729,Leo,Maheras,lmaheras@mwm09.com,Monte Cresta,2716 ,Drive,,Belmont,94002,650-622-9625,,,,,50,21,4,,Any,12,greeks,,1,1,0,0,2012-12-04 18:34:22.84,85.0000,I prefer the 8;30 a.m games. Last season I ended up at the 11:30: a.m. games and I could not attend ,2
+9,14741,Tejas,Mazmudar,tmazmudar@gmail.com,University,861,Ave,4,Palo Alto,94301,6507999240,,30045859,Tejas,Mazmudar,34,2,3,,Midfield,15,paco1234,,1,1,2,0,2012-12-04 20:28:44.21,105.0000,,2
+9,14898,Morten,Green,morten@green-smith.net,Wessex,1564,Ave,,Los Altos,94024,6509673944,6509673944,California,,,52,20,3,,Midfield,12,morten,,1,2,3,0,2012-12-09 01:30:21.1,110.0000,,2
+9,14912,Shuichiro,Ohara,shuichiro.oohara@gmail.com,N. 8th,800,St,331,San Jose,95112,408-275-6943,,,,,37,18,3,,Midfield,17,Dragons,,1,1,0,0,2012-12-09 21:26:34.42,85.0000,,2
+9,14959,Srini,Sankaran,srinisan@gmx.com,Ferne,464,Ave,,Palo Alto,94306,650-494-7685,650-520-5907,Don't have it handy,Srini,Sankaran,50,10,4,,Any,8,,,1,1,0,0,2012-12-12 17:34:36.83,75.0000,,2
+9,14974,peter,kolotouros,petekol@aol.com,maple,430,way,,woodside,94062,6503644212,4088295223,,,,45,10,3,,Fullback,8,greeks,,1,1,0,0,2012-12-13 12:43:37.89,90.0000,,1
+9,15009,Alex,Luna-Victoria,luna_victoria@hotmail.com,Vera,526,Ave,,Redwood City,94061,6502619684,6506700804,,,,43,38,4,,Midfield,21,Dragons,,1,1,0,0,2012-12-16 14:42:37.13,85.0000,,1
+9,15048,sergio,callejas,slcallejas@gmail.com,Elm st.,36848,st.,,Newark,94560,6502185783,6502185783,,,,44,4,4,,Any,21,serg1969,,1,1,4,0,2012-12-18 21:37:32.583,115.0000,,1
+9,15049,Alejandro,callejas,axxelito10@gmail.com,Ivy,450,Drive,,Menlo Park,94025,650-906-5307,650-906-5307,,,,51,6,4,,Any,21,serg1969,,1,1,3,0,2012-12-18 21:53:06.75,115.0000,,1
+9,15068,Bob,Jenkins,bjenkins1962@att.net,Billingsgate,290,Lane,,Foster City,94404,6505259371,6502380295,,,,51,40,4,,Fullback,15,,,1,1,0,0,2012-12-20 01:06:13.067,85.0000,,2
+9,15087,Nikos,Maheras,nmaheras@yahoo.com,Oakview ,328,Drive,,San Carlos,94070,4152151594,,,,,46,30,3,,Forward,11,Greeks,,1,1,0,0,2012-12-21 12:01:46.01,85.0000,,2
+9,15099,Andrew ,Trapani,attrapani@gmail.com,Wren,943,Dr,,San Jose,95125,9259895274,,,,,28,17,3,,Fullback,21,Blue1234,,1,1,0,0,2012-12-21 21:35:18.877,85.0000,,2
+9,15103,Chris,Frangos,cfrangos@cbnorcal.com,Sequoia ,61,Ct,,San Carlos,94070,650-595-2036,650-868-2402,,,,54,40,3,,Midfield,18,GREEKS,,1,1,0,0,2012-12-22 02:39:20.223,85.0000,,2
+9,15120,David,Ovadia,ClassicDJO@yahoo.com,Creek Bed Ct,2266 ,resd,,Santa Clara,95054,925-858-0929,,,,,29,13,3,,Fullback,16,blue1234,,1,1,0,0,2012-12-23 02:40:47.763,85.0000,,2
+9,15268,Babak,Kamangar,bob@serenogroup.com,Snell,26590,Lane,,Los Altos Hills,94022,650-917-1941,650-245-0245,,,,47,35,2,pt,Forward,9,,,1,1,0,0,2012-12-25 21:18:31.663,75.0000,please put me on same team as my friend Kaveh Badiei who is already registered.,2
+9,15331,Steve,Altus,steve_altus@yahoo.com,Virginia,625,Ave,,Campbell,95008,408.364.9722,408.228.7384,,,,44,25,4,,Forward,12,estimate,,1,1,0,0,2012-12-30 17:42:32.377,85.0000,,1
+10,14581,Son,Ho,son_ho@pacbell.net,Carmel,1261,Terr,,Los Altos,94024,650-938-3436,408-761-4479,,,,52,10,3,,Forward,20,sjs2011,,1,2,0,0,2012-12-01 12:49:15.187,95.0000,,1
+10,14633,Scott,Lessing,scott@lessingfamily.com,San Mateo Dr,725,Dr,,Menlo Park,94025,6507932442,,,,,45,10,4,,Any,18,,,1,1,4,0,2012-12-03 11:08:38.5,125.0000,,2
+10,14771,Bradley,Joe,bradley.w.joe@gmail.com,Margarita,479,Ave,,Palo Alto,94306,415-269-8190,,30060752,Lucia,Nguyen,27,0,5,pt,Midfield,21,,,1,1,4,0,2012-12-05 01:36:39.61,100.0000,,2
+10,14780,Des,Baker,des.baker@sbcglobal.net,Hilltop ,38,Drive,,San Carlos,94070,6505923550,,,,,47,33,4,,Forward,14,,,1,1,0,0,2012-12-05 08:30:49.86,85.0000,,2
+10,14784,mike,sawatzky,mikesawatzky@yahoo.com,creager ,3729,court,,san jose,95130,408-246-4774,408-209-6848,,,,51,35,3,,Forward,14,,,1,1,0,0,2012-12-05 09:58:33.713,85.0000,if no. 16 is available on shirt I would like that,1
+10,14850,Si Yi,Khoo,skhoo368@yahoo.com,Elk Grove,1861,Lndg,,San Jose,95131,408-890-7457,,,,,33,19,3,,Forward,12,sjs2011,,1,1,0,0,2012-12-06 23:59:15.01,85.0000,,2
+10,14897,Paco,Herrero,herreropaco@netscape.net,Mountaire,4796,Place,,San Jose,95138,408-528-7740,,,,,42,30,3,,Fullback,12,,,1,1,0,0,2012-12-09 00:47:20.717,85.0000,,2
+10,14908,Casey,koulman,caseykoulman@gmail.com,Walter Hays,122,Drive,,Palo Alto,94303,4157225561,,30024735,Patricia,Cox,56,20,3,,Fullback,18,casey,,1,1,0,0,2012-12-09 19:16:08.467,0.0000,thanks Loic,2
+10,14954,Hernan,Goldsztein,goldbros@hotmail.com,Greyhawk,194,Ct,,Mountain View,94043,6172308649,650-494-1000,N/A,,,37,25,2,,Midfield,15,Hernan1234,,1,1,0,0,2012-12-12 12:50:41.617,85.0000,,2
+10,14961,Do,Kim,dhkdhkg1@gmail.com,Bernard,235,Ln,,Santa Cruz,95060,831-227-4709,,,,,52,30,2,pt,Midfield,21,sjs2011,,1,1,3,0,2012-12-12 19:30:52.943,115.0000,,3
+10,14993,Blake,Parkinson,wizardplow@gmail.com,2 Clark ,2,Dr.,207,San Mateo,94401,415-205-0841,,,,,28,5,2,,Forward,18,blake,,1,3,0,0,2012-12-14 20:03:14.66,85.0000,"Not sure if he put in a code, but please put me on a team with Luigi Aditiarama and Brian Pfleuger",1
+10,14994,Brian,Pflueger,brian.pflueger@gmail.com,S Delaware,1113,St,,San Mateo,94402,650-339-0679,,,,,31,1,4,,Any,16,blake,,1,1,3,0,2012-12-14 20:15:38.25,115.0000,,1
+10,15011,Patrik,Jonsson,the_address@yahoo.com,Sierra Village,1237,Pl,,San Jose,95132,510 209 8269,,,,,48,10,3,,Midfield,17,,,1,1,0,0,2012-12-16 16:57:41.33,85.0000,,2
+10,15104,Charles,d'Harcourt,zmmwt927@dharcourt.com,Bryant,3182,St,,Palo Alto,94306,512-484-9625,,30061274,Charles,d'Harcourt,47,0,5,,Any,21,,,1,1,5,0,2012-12-22 02:43:35.54,105.0000,,2
+10,15107,Jonathan,Levav,jlevav@stanford.edu,Esplanada ,856,Way,,Stanford,94305,650-391-9620,,N/A,,,38,6,4,,Any,11,Hernan1234,,1,1,0,0,2012-12-22 14:09:31.163,75.0000,I'm trying to register with Hernan Goldsztein,2
+10,15137,Luigi,Aditiarama,bentfingers@gmail.com,Forest View,497,Dr,,South San Francisco,94080,408-687-5676,,California,,,28,4,3,,Midfield,10,blake,,1,1,0,0,2012-12-24 12:36:39.187,85.0000,,2
+10,15247,Anthony,Law,anthonyhc_law@msn.com,Newell Road,1150,Road,,Palo Alto,94303,650-861-3823,,132883-43417,Simon,Chow,50,18,3,,Any,18,,,1,1,0,0,2012-12-25 01:36:02.117,75.0000,,1
+10,15299,Malcolm,Fleschner,witneyfest@aol.com,Sutherland,4126,Dr.,,Palo Alto,94303,6508434897,,30016311,Kristin,Meier,43,30,4,pt,Forward,14,,,1,1,0,0,2012-12-28 04:39:19.25,75.0000,,1
+11,14575,George,Demienne,george@svdirect.com,Westgate ,33,ST.,,Palo Alto,94062,650-556-9978,510-331-9207,300001,George,Demienne,57,53,4,,Forward,8,gd,,1,1,0,0,2012-12-01 11:55:31.017,85.0000,,1
+11,14577,Rick,Natsch,ranatsch@yahoo.com,Lyon,2010 ,Str,,San Francisco,94115,415-203-3636,,,,,41,35,2,,Midfield,6,David,,1,1,0,0,2012-12-01 12:13:48.517,100.0000,,2
+11,14582,Kenneth,Moberg,ken@kmoberg.net,Pinecrest,1105,Drive,,Boulder Creek,95006,831-596-6780,831-596-6780,,,,50,13,3,,Midfield,21,,,1,1,3,0,2012-12-01 13:11:15.973,125.0000,,1
+11,14587,David,Nicoll,david.nicoll@aya.yale.edu,Seminole,704,Way,,Palo Alto,94303,510-459-1090,,30012287,Sohaila,Shooshtarian,44,15,3,,Midfield,15,David,,1,1,3,0,2012-12-01 14:02:33.33,115.0000,,1
+11,14594,ronnie,farrell,ronnie_farrell@hotmail.com,greenwood,1470,ave,,palo alto,94301,3267572,,0012706337467,John,Devincenzi,43,20,4,pt,Midfield,21,PNS,,1,1,0,0,2012-12-01 17:32:07.08,90.0000,,3
+11,14595,Robert,Morell,bobmorell@gmail.com,N 7th,322,St,,San Jose,95112,626 376 2354,,,,,29,18,3,,Midfield,20,,,1,1,0,0,2012-12-01 18:08:21.017,95.0000,,3
+11,14656,Jonathan ,Lee,jlee@cendogroup.com,Lupine ,27751 ,Road,,Palo Alto,94022,650-917-9840,650-279-2391,7852958523,Jonathan,Lee,53,38,2,,Midfield,16,,,1,1,0,0,2012-12-04 00:29:22.217,85.0000,,1
+11,14687,David,Rodnitzky,davidrod@gmail.com,Laurelwood,819,Drive,,San Mateo,94403,4152594798,4153368943,,,,42,28,4,,Fullback,10,David,,1,1,0,0,2012-12-04 17:07:28.44,85.0000,,3
+11,14734,Matthew,Zises,mzises@me.com,Adeline,378,Ave,,San Jose,95136,408-267-7872,,,,,39,28,2,,Any,15,,,1,1,0,0,2012-12-04 19:05:58.953,85.0000,,3
+11,14825,Fernando,Nocedal,fnocedal@yahoo.com,Alegria,1457 ,Loop,,San Jose,95128,408 202 8974,408 232 1624,,,,61,22,4,,Midfield,18,,,1,2,0,0,2012-12-06 02:14:38.847,85.0000,,1
+11,14827,Michael,Stewart,michael.stewart@stanfordalumni.org,Amherst,92,St,,Menlo Park,94025,6503618825,,,,,63,28,4,,Midfield,9,nv,,1,1,0,0,2012-12-06 02:54:10.713,85.0000,,3
+11,14866,Alexander,Loktev,sasha.loktev@gmail.com,Tahoe,1126,Lane,,Palo Alto,94303,6503212010,,30050424,Alexander,Loktev,37,1,4,,Any,18,loktev,,1,1,0,0,2012-12-07 15:06:09.527,75.0000,,1
+11,14914,Justin,Welsh,Justinlw@earthlink.net,South Frances,550,St.,,Sunnyvale,94086,408-720-6989,,,,,50,37,3,,Midfield,18,water,,1,1,0,0,2012-12-09 22:59:57.23,85.0000,You guys rock!,3
+11,14933,Loren,Hillberg,lhillberg@gmail.com,Ashfield,33,Road,,Atherton,94027,6505759490,6503217877,CA - California,,,55,2,4,,Midfield,18,GD,,1,1,6,0,2012-12-11 02:37:41.783,110.0000,,1
+11,15061,Derek,Farley,derekjfarley@gmail.com,Kathy,1534,Lane,,Los Altos,94024,6502697333,,,,,28,8,3,,Forward,20,,,1,1,0,0,2012-12-19 18:26:03.263,90.0000,,3
+11,15094,Brian ,Purchia,brianpurchia@gmail.com,Sacramento,2011 ,St,2,San Francisco,94109,202.253.4330,,,,,33,27,2,,Forward,10,14583,,1,1,0,0,2012-12-21 18:40:30.91,85.0000,,2
+11,15111,Emrehan,Kirimli,emrehan_tr@yahoo.com,Coleman,3,Place,4,Menlo Park,94025,4156136231,,,,,30,10,4,,Fullback,19,EsEs26,,1,2,3,0,2012-12-22 19:10:53.167,115.0000,,3
+11,15127,Marc,Joseph,marc.joseph@sbcglobal.net,Brandywine,1589,Road,,San Mateo,94402,650-570-5822,650-483-4422,,,,58,30,4,,Fullback,12,14583,,1,1,0,0,2012-12-23 21:02:23.947,85.0000,,3
+11,15320,David,Sousa,sousax2@yahoo.com,Estero,3256,Drive,,San Ramon,94583,925-577-7587,925-577-7587,,,,42,33,3,,Midfield,15,14583,,1,2,0,0,2012-12-29 15:36:13.367,85.0000,,3
+12,14717,W Ron,Sutton,wronsutton@gmail.com,Dolores,4898,Drive,,Pleasanton,94566,925-580-5961,925-580-5961,n/a,,,67,42,4,pt,Fullback,10,Ptown2,,1,2,0,0,2012-12-04 17:50:45.28,85.0000,,2
+12,14763,Diego,Zimet,diego.zimet@gmail.com,Mariposa,1592,Ave,,Palo Alto,94306,5107034301,,30054244,Diego,Zimet,32,8,4,,Forward,14,,,1,1,4,0,2012-12-04 23:53:47.697,105.0000,I'm left-footed,3
+12,14851,Jan,Maarse,jmaarse@gmail.com,Fernando,458,ave,,Palo Alto,94306,6506449118,,30004959,jan,maarse,28,6,5,,Fullback,21,PATRICK7658,,1,1,0,0,2012-12-07 00:49:28.11,75.0000,,3
+12,14852,Tom,Furlong,tfurlong@granitevc.com,Kings,1499,Lane,,Palo Alto,94303,650.325.2758,415.591.7709,132846-43379,Ann,Williams,55,43,3,,Midfield,17,,,1,1,0,0,2012-12-07 00:49:52.74,75.0000,,3
+12,14861,Andrew,Choi,jeonghyeon@msn.com,Southgate,971,Ave,,Daly City,94015,4153705633,,,,,41,20,3,,Fullback,15,,,1,1,0,0,2012-12-07 13:05:07.24,85.0000,,3
+12,14916,Graham,Dresden,gdresden@gmail.com,Princeton,2294,St,,Palo Alto,94306,650-388-6141,,30041511,Graham,Dresden,38,25,3,,Midfield,21,Andy1234,,1,1,0,0,2012-12-10 00:53:51.147,75.0000,,1
+12,14917,Tracy,Thonn,tracy@thonn.com,Gail,744,Ave,,Sunnyvale,94086,408-773-0865,408-764-4249,,,,51,23,3,,Forward,18,,,1,1,0,0,2012-12-10 02:22:42.02,85.0000,,3
+12,14949,John,Boessenecker,jboess@comcast.net,Jamaica,1001,St.,,"Foster City, CA",94404,650-573-1710,415-392-3374,,,,60,15,4,,Midfield,21,FC11,,1,1,0,0,2012-12-12 01:43:14.6,85.0000,,3
+12,14980,George,Demarest,g_demarest@yahoo.com,Mission College,2841,Blvd,,Santa Clara,84098,435.487.9096,435.659.6089,,,,52,30,2,,Midfield,18,,,1,1,4,0,2012-12-13 21:53:57.6,115.0000,,1
+12,15002,Tim,Leary,twleary@aol.com,Willow,42,Rd,,Menlo Park,94025,650-329-9046,650-328-8544,,,,62,25,3,,Midfield,12,lear4321,,1,1,0,0,2012-12-15 20:05:35.26,85.0000,Like to be on same team as my son Ryan Leary please,3
+12,15015,Stephen,Pappas,steve@stephenpappas.com,Apricot,277,Lane,,Mountain View,94040,650-961-8779,,,,,54,20,5,,Fullback,15,,,1,1,0,0,2012-12-16 20:52:55.05,85.0000,,3
+12,15033,Nicholas,Keehn,ecthelionv@gmail.com,Bonita,1016,Ave,C,Mountain View,94040,5303866185,,,,,29,15,3,,Midfield,20,andy1234,,1,1,0,0,2012-12-17 18:15:43.467,85.0000,,1
+12,15078,Pawel,Kaminski,kamienpl@gmail.com,Homestead Rd,1370,Road,,Santa Clara,95050,5713555883,,,,,32,15,3,,Midfield,6,,,1,1,0,0,2012-12-20 20:43:45.707,85.0000,,1
+12,15123,Jon,Criswell,scout7wc@gmail.com,Brookside,18810,Cir,,Saratoga,95070,510-862-4482,,,,,40,13,3,,Fullback,17,PATRICK7658,,1,1,0,0,2012-12-23 15:29:37.387,85.0000,,2
+12,15237,utku,yilmaz,utkulaw@yahoo.com,Cabrillo,3270,Ave,421,Santa Clara,95051,3236522111,,,,,28,10,3,,Midfield,21,,,1,1,3,0,2012-12-24 22:00:00.65,115.0000,,3
+12,15310,Raanan,Dagan,raanan.dagan@yahoo.com,Fallen Leaf,3272,St,,Palo Alto,94303,6503236669,,30045111,Rachel,Brooks,48,45,3,,Midfield,15,,,1,1,0,0,2012-12-28 21:46:04.357,80.0000,,1
+12,15339,Gulliver,Lavalle,Gulliverorama@gmail.com,Old Trace ,4121,Road,,Palo Alto,94306,996-5572,,NA,John and Linda,Muller / Walton,40,16,3,,Midfield,21,PV2468,,1,1,0,0,2012-12-30 23:27:31.683,75.0000,,1
+12,15340,Mike,Fabian,mbfabian@gmail.com,Old Trace ,4121,Road,,Palo Alto,94306,996-5572,,NA,John and Linda,Muller / Walton,40,18,3,,Midfield,21,PV2468,,1,1,0,0,2012-12-30 23:35:19.69,75.0000,,1
+12,15341,Ralph,Lewis,Ralphlewisconstruction@gmail.com,Old Trace ,4121,Road,,Palo Alto,94306,996-5572,,NA,John and Linda,Muller / Walton,45,18,3,,Forward,21,PV2468,,1,3,0,0,2012-12-30 23:39:43.107,75.0000,,1

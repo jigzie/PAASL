@@ -1,0 +1,4683 @@
+
+
+<table border="2">
+<tr><td>
+RegistrationID</td><td>FirstName</td><td>LastName</td><td>EMail</td><td>StreetName</td><td>StreetNumber</td><td>StreetType</td><td>Apartment</td><td>City</td><td>ZIP</td><td>HomePhone</td><td>WorkPhone</td><td>PAU_Account</td><td>OwnerFirstName</td><td>OwnerLastName</td><td>age</td><td>experience</td><td>skill</td><td>goalie</td><td>position</td><td>games</td><td>groupcode</td><td>coord</td><td>Otherleague</td><td>WillingCoordinator</td><td>Shirt</td><td>Socks</td><td>RegistrationStamp</td><td>TotalCharge</td><td>Comments
+</td></tr>
+
+
+<tr>
+	
+		<td>16984</td>
+	
+		<td>sungho</td>
+	
+		<td>kim</td>
+	
+		<td>sungho63@gmail.com</td>
+	
+		<td>bret harte </td>
+	
+		<td>1873 </td>
+	
+		<td>st</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>6503299771</td>
+	
+		<td>4089217798</td>
+	
+		<td>CA 30003284</td>
+	
+		<td>sungho</td>
+	
+		<td>kim</td>
+	
+		<td>50</td>
+	
+		<td>1</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>11</td>
+	
+		<td>FIFA2014</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-19 22:41:30.043</td>
+	
+		<td>70.0000</td>
+	
+		<td>prefer B division.   A is O.K. if B is unavailable. </td>
+	
+</tr>
+
+<tr>
+	
+		<td>16985</td>
+	
+		<td>Larry</td>
+	
+		<td>Blair</td>
+	
+		<td>larryblair@gmail.com</td>
+	
+		<td>Emerson</td>
+	
+		<td>2886</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650-804-0269</td>
+	
+		<td></td>
+	
+		<td>129727-35378</td>
+	
+		<td>Beth</td>
+	
+		<td>Blair</td>
+	
+		<td>60</td>
+	
+		<td>48</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-19 22:43:50.577</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>16993</td>
+	
+		<td>robert</td>
+	
+		<td>blatman</td>
+	
+		<td>rgblatman@aol.com</td>
+	
+		<td>lincoln</td>
+	
+		<td>965</td>
+	
+		<td>ave.</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>650-269-1491</td>
+	
+		<td>650-269-1491</td>
+	
+		<td>12837638801</td>
+	
+		<td>robert</td>
+	
+		<td>blatman</td>
+	
+		<td>58</td>
+	
+		<td>39</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>14</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-20 13:59:30.677</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17014</td>
+	
+		<td>Bob</td>
+	
+		<td>Pratt</td>
+	
+		<td>rpratt@stanfordalumni.org</td>
+	
+		<td>Miller </td>
+	
+		<td>4374</td>
+	
+		<td>Court</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650-255-1588</td>
+	
+		<td>650-255-1588</td>
+	
+		<td>119360-28443</td>
+	
+		<td>Rick</td>
+	
+		<td>Reddy</td>
+	
+		<td>46</td>
+	
+		<td>39</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>12</td>
+	
+		<td>skiutah</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>3</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-21 12:13:09.677</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17028</td>
+	
+		<td>Chris</td>
+	
+		<td>Roon</td>
+	
+		<td>chris@roononline.com</td>
+	
+		<td>Briarwood</td>
+	
+		<td>4123</td>
+	
+		<td>Way</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650 868 7440</td>
+	
+		<td></td>
+	
+		<td>1188846-29173</td>
+	
+		<td>Meri</td>
+	
+		<td>Gruber</td>
+	
+		<td>57</td>
+	
+		<td>30</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>8</td>
+	
+		<td>skiutah</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-22 11:37:12.29</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17040</td>
+	
+		<td>Loic</td>
+	
+		<td>Vandereyken</td>
+	
+		<td>loicv@vandereyken.com</td>
+	
+		<td>Waverley</td>
+	
+		<td>3330</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650 856 0247</td>
+	
+		<td></td>
+	
+		<td>30016018</td>
+	
+		<td>Chantal</td>
+	
+		<td>Eril</td>
+	
+		<td>50</td>
+	
+		<td>20</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td>jkl</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-23 01:25:49.773</td>
+	
+		<td>0.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17043</td>
+	
+		<td>christophe</td>
+	
+		<td>suchet</td>
+	
+		<td>cdsuchet@comcast.net</td>
+	
+		<td>Somerset</td>
+	
+		<td>41</td>
+	
+		<td>place</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>6507145534</td>
+	
+		<td></td>
+	
+		<td>30049849 </td>
+	
+		<td>Christophe</td>
+	
+		<td>Suchet</td>
+	
+		<td>44</td>
+	
+		<td>34</td>
+	
+		<td>2</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>GRAHAMBO</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-23 12:20:10.52</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17060</td>
+	
+		<td>Casey</td>
+	
+		<td>koulman</td>
+	
+		<td>caseykoulman@gmail.com</td>
+	
+		<td>Walter Hays</td>
+	
+		<td>122</td>
+	
+		<td>Drive</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>4157225561</td>
+	
+		<td></td>
+	
+		<td>30024735</td>
+	
+		<td>Patricia</td>
+	
+		<td>Cox</td>
+	
+		<td>56</td>
+	
+		<td>21</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>13</td>
+	
+		<td>casey</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-25 01:01:14.02</td>
+	
+		<td>70.0000</td>
+	
+		<td>thanks Loic</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17062</td>
+	
+		<td>Leon</td>
+	
+		<td>Leong</td>
+	
+		<td>lyleong@pacbell.net</td>
+	
+		<td>Byron</td>
+	
+		<td>138</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>650-224-4574</td>
+	
+		<td></td>
+	
+		<td>3000-1448</td>
+	
+		<td>Leon</td>
+	
+		<td>Leong</td>
+	
+		<td>57</td>
+	
+		<td>3</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-25 01:28:58.72</td>
+	
+		<td>70.0000</td>
+	
+		<td>B league please.</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17063</td>
+	
+		<td>Kevin</td>
+	
+		<td>Mayer</td>
+	
+		<td>mayer.zimmer@gmail.com</td>
+	
+		<td>Ross</td>
+	
+		<td>3791</td>
+	
+		<td>Road</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>650 4240736</td>
+	
+		<td></td>
+	
+		<td>30037832</td>
+	
+		<td>Barbara</td>
+	
+		<td>Zimmer</td>
+	
+		<td>60</td>
+	
+		<td>45</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td>jkl</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-25 02:53:07.863</td>
+	
+		<td>0.0000</td>
+	
+		<td>Thank you </td>
+	
+</tr>
+
+<tr>
+	
+		<td>17064</td>
+	
+		<td>Vikas</td>
+	
+		<td>Kedia</td>
+	
+		<td>kedia.vikas@gmail.com</td>
+	
+		<td>Yale Street</td>
+	
+		<td>2150</td>
+	
+		<td>Resid</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>775-443-6747</td>
+	
+		<td></td>
+	
+		<td>3006-8058</td>
+	
+		<td>Vidushi</td>
+	
+		<td>Savant</td>
+	
+		<td>36</td>
+	
+		<td>2</td>
+	
+		<td>4</td>
+	
+		<td>Part Time</td>
+	
+		<td>Midfield</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>3</td>
+	
+		<td>3</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-25 07:28:57.787</td>
+	
+		<td>100.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17081</td>
+	
+		<td>Paul</td>
+	
+		<td>Huard</td>
+	
+		<td>huard@yahoo.com</td>
+	
+		<td>Sequoia</td>
+	
+		<td>350</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>808-282-6019</td>
+	
+		<td>808-282-6019</td>
+	
+		<td>152004-28891</td>
+	
+		<td>Paul</td>
+	
+		<td>Huard</td>
+	
+		<td>44</td>
+	
+		<td>2</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td>pasc</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>2</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-26 00:05:32.377</td>
+	
+		<td>70.0000</td>
+	
+		<td>AYSO coach for some time and I enjoy playing, but little experience as a player and it shows.</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17089</td>
+	
+		<td>Srini</td>
+	
+		<td>Sankaran</td>
+	
+		<td>srinisan@gmx.com</td>
+	
+		<td>Ferne</td>
+	
+		<td>464</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650-494-7685</td>
+	
+		<td>650-520-5907</td>
+	
+		<td>30006903</td>
+	
+		<td>Srini</td>
+	
+		<td>Sankaran</td>
+	
+		<td>50</td>
+	
+		<td>10</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>9</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-26 16:17:38.62</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17093</td>
+	
+		<td>Florin</td>
+	
+		<td>Constantin</td>
+	
+		<td>florharv@gmail.com</td>
+	
+		<td>Lytton</td>
+	
+		<td>130</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>6178945201</td>
+	
+		<td></td>
+	
+		<td>000030060733</td>
+	
+		<td>Gabriel</td>
+	
+		<td>Constantin</td>
+	
+		<td>33</td>
+	
+		<td>5</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>9</td>
+	
+		<td>Romania</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-27 17:38:14.167</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17098</td>
+	
+		<td>Darrell</td>
+	
+		<td>Dodge</td>
+	
+		<td>darrelldodge@gmail.com</td>
+	
+		<td>Ross</td>
+	
+		<td>2590</td>
+	
+		<td>Road</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>9195229810</td>
+	
+		<td>6503538879</td>
+	
+		<td>30059919</td>
+	
+		<td>Darrell</td>
+	
+		<td>Dodge</td>
+	
+		<td>44</td>
+	
+		<td>36</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>11</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>3</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-28 01:51:32.6</td>
+	
+		<td>100.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17099</td>
+	
+		<td>Alexander</td>
+	
+		<td>Loktev</td>
+	
+		<td>sasha.loktev@gmail.com</td>
+	
+		<td>Tahoe</td>
+	
+		<td>1126</td>
+	
+		<td>Lane</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>6503212010</td>
+	
+		<td></td>
+	
+		<td>30050424</td>
+	
+		<td>Alexander</td>
+	
+		<td>Loktev</td>
+	
+		<td>37</td>
+	
+		<td>2</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>loktev</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-28 10:31:41.777</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17100</td>
+	
+		<td>Fuad</td>
+	
+		<td>Abu Nofal</td>
+	
+		<td>fabunofal@yahoo.com</td>
+	
+		<td>Highlands</td>
+	
+		<td>866</td>
+	
+		<td>Cir</td>
+	
+		<td></td>
+	
+		<td>Los Altos</td>
+	
+		<td>94024</td>
+	
+		<td>650 969 4786</td>
+	
+		<td>650 469 3585</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>55</td>
+	
+		<td>10</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-28 12:25:15.047</td>
+	
+		<td>0.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17109</td>
+	
+		<td>Gui</td>
+	
+		<td>Bastos</td>
+	
+		<td>guibastos@gmail.com</td>
+	
+		<td>Forest </td>
+	
+		<td>365</td>
+	
+		<td>Ave</td>
+	
+		<td>2C</td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>650 906-9253</td>
+	
+		<td>408 431-9649</td>
+	
+		<td>185113-28516</td>
+	
+		<td>Sonia</td>
+	
+		<td>Wong</td>
+	
+		<td>39</td>
+	
+		<td>5</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>17</td>
+	
+		<td>MZMB</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-29 02:22:58.21</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17124</td>
+	
+		<td>Jeff</td>
+	
+		<td>Greenfield</td>
+	
+		<td>jeffg13@gmail.com</td>
+	
+		<td>Waverley</td>
+	
+		<td>3476</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650.494.9331</td>
+	
+		<td>650.766.0511</td>
+	
+		<td>30023918</td>
+	
+		<td>Marilyn</td>
+	
+		<td>Keller</td>
+	
+		<td>52</td>
+	
+		<td>42</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>7</td>
+	
+		<td>jkl</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-30 17:36:08.647</td>
+	
+		<td>0.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17125</td>
+	
+		<td>Todd</td>
+	
+		<td>Jin</td>
+	
+		<td>todd_jin@yahoo.com</td>
+	
+		<td>ross </td>
+	
+		<td>3803</td>
+	
+		<td>road</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>6503208396</td>
+	
+		<td></td>
+	
+		<td>30034762</td>
+	
+		<td>tao</td>
+	
+		<td>jin</td>
+	
+		<td>45</td>
+	
+		<td>10</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>prc</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-30 17:52:07.873</td>
+	
+		<td>75.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17136</td>
+	
+		<td>Luke</td>
+	
+		<td>Thivierge</td>
+	
+		<td>luke.thivierge@mac.com</td>
+	
+		<td>Clark</td>
+	
+		<td>1233</td>
+	
+		<td>Way</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94304</td>
+	
+		<td>650-644-9208</td>
+	
+		<td></td>
+	
+		<td>30004727</td>
+	
+		<td>Lisa</td>
+	
+		<td>Kubicki</td>
+	
+		<td>33</td>
+	
+		<td>5</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-08-31 15:41:38.517</td>
+	
+		<td>70.0000</td>
+	
+		<td>I still do not have my player pass.</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17138</td>
+	
+		<td>Yuval</td>
+	
+		<td>Spector</td>
+	
+		<td>yuval.spector@gmail.com</td>
+	
+		<td>Sonoma Terrace</td>
+	
+		<td>832 </td>
+	
+		<td>Ter</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94305</td>
+	
+		<td>650-565-8239</td>
+	
+		<td>650-292-4802</td>
+	
+		<td>4342262034-4</td>
+	
+		<td>Yuval</td>
+	
+		<td>Spector</td>
+	
+		<td>45</td>
+	
+		<td>35</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>12</td>
+	
+		<td>UpToUs</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-02 00:55:09.31</td>
+	
+		<td>70.0000</td>
+	
+		<td>Played in A in the past but coming back after ACL surgery so not sure about A or B</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17140</td>
+	
+		<td>Itay</td>
+	
+		<td>Fainmesser</td>
+	
+		<td>i.p.fainmesser@gmail.com</td>
+	
+		<td>Grant </td>
+	
+		<td>425</td>
+	
+		<td>Ave</td>
+	
+		<td>22</td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>7652696601</td>
+	
+		<td></td>
+	
+		<td>30066525</td>
+	
+		<td>Itay</td>
+	
+		<td>Fainmesser</td>
+	
+		<td>36</td>
+	
+		<td>3</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>9</td>
+	
+		<td>Einav-Manor</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>4</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-02 15:09:30.847</td>
+	
+		<td>100.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17142</td>
+	
+		<td>Sudipto</td>
+	
+		<td>Aich</td>
+	
+		<td>13sudipto@gmail.com</td>
+	
+		<td>Alma</td>
+	
+		<td>3189</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>5404494640</td>
+	
+		<td></td>
+	
+		<td> 30066534</td>
+	
+		<td>Sudipto</td>
+	
+		<td>Aich</td>
+	
+		<td>28</td>
+	
+		<td>4</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>8</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-02 17:29:04.383</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17145</td>
+	
+		<td>Antonio</td>
+	
+		<td>Hardan</td>
+	
+		<td>antoniohardan@yahoo.com</td>
+	
+		<td>El Capitan</td>
+	
+		<td>482</td>
+	
+		<td>Place</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>6505210624</td>
+	
+		<td>6507235511</td>
+	
+		<td>30032876</td>
+	
+		<td>Antonio</td>
+	
+		<td>Hardan</td>
+	
+		<td>49</td>
+	
+		<td>40</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>9</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-04 00:37:08.943</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17151</td>
+	
+		<td>David</td>
+	
+		<td>Enemark</td>
+	
+		<td>davidenemark@gmail.com</td>
+	
+		<td>Middlefield</td>
+	
+		<td>3655A</td>
+	
+		<td>Road</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>650-388-8737</td>
+	
+		<td></td>
+	
+		<td>30050608</td>
+	
+		<td>David</td>
+	
+		<td>Enemark</td>
+	
+		<td>33</td>
+	
+		<td>2</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>9</td>
+	
+		<td>Noah</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-04 23:02:54.647</td>
+	
+		<td>70.0000</td>
+	
+		<td>Noah</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17154</td>
+	
+		<td>Chris</td>
+	
+		<td>Hetterly</td>
+	
+		<td>hetterly@sbcglobal.net</td>
+	
+		<td>Colorado</td>
+	
+		<td>813</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>650-856-0516</td>
+	
+		<td></td>
+	
+		<td>30008596</td>
+	
+		<td>Chris</td>
+	
+		<td>Hetterly</td>
+	
+		<td>46</td>
+	
+		<td>1</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>10</td>
+	
+		<td>mrp</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-05 22:25:43.54</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17155</td>
+	
+		<td>Adam</td>
+	
+		<td>Olshen</td>
+	
+		<td>olshen@gmail.com</td>
+	
+		<td>Bryson</td>
+	
+		<td>615</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>6505613551</td>
+	
+		<td></td>
+	
+		<td>30004196 </td>
+	
+		<td>Adam</td>
+	
+		<td>Olshen</td>
+	
+		<td>45</td>
+	
+		<td>20</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>HD267</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-06 14:18:15.733</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17157</td>
+	
+		<td>Stefan</td>
+	
+		<td>Kratz</td>
+	
+		<td>skratz@gmail.com</td>
+	
+		<td>Sutherland</td>
+	
+		<td>4020</td>
+	
+		<td>Dr</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>6509194215</td>
+	
+		<td></td>
+	
+		<td>30055818</td>
+	
+		<td>Stefan</td>
+	
+		<td>Kratz</td>
+	
+		<td>40</td>
+	
+		<td>8</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-07 02:52:57.003</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17159</td>
+	
+		<td>Romain</td>
+	
+		<td>Madelaine</td>
+	
+		<td>romain.madelaine@stanford.edu</td>
+	
+		<td>Layne Court</td>
+	
+		<td>751</td>
+	
+		<td>Court</td>
+	
+		<td>13</td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>6505752759</td>
+	
+		<td>6505752759</td>
+	
+		<td>30057556</td>
+	
+		<td>Romain</td>
+	
+		<td>Madelaine</td>
+	
+		<td>30</td>
+	
+		<td>4</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-08 23:45:05.17</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17160</td>
+	
+		<td>Anatoly</td>
+	
+		<td>Surdutovich</td>
+	
+		<td>asurdutovich@gmail.com</td>
+	
+		<td>West Bayshore</td>
+	
+		<td>2456</td>
+	
+		<td>Rd</td>
+	
+		<td>4</td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>4083152078</td>
+	
+		<td></td>
+	
+		<td>16677222541</td>
+	
+		<td>Anatoly</td>
+	
+		<td>Surdutovich</td>
+	
+		<td>42</td>
+	
+		<td>10</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>8</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>2</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-09 03:52:07.46</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17162</td>
+	
+		<td>Tom</td>
+	
+		<td>Furlong</td>
+	
+		<td>tom.furlong@gmail.com</td>
+	
+		<td>Kings</td>
+	
+		<td>1499</td>
+	
+		<td>Lane</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>650.325.2758</td>
+	
+		<td>415.591.7709</td>
+	
+		<td>132846-43379</td>
+	
+		<td>Ann</td>
+	
+		<td>Williams</td>
+	
+		<td>55</td>
+	
+		<td>43</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-09 15:27:15.537</td>
+	
+		<td>70.0000</td>
+	
+		<td>FORM WON'T LET ME CHANGE THE DIVISION I WANT TO PLAY IN TO B</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17163</td>
+	
+		<td>Timothy</td>
+	
+		<td>Greene</td>
+	
+		<td>timothydgreene@gmail.com</td>
+	
+		<td>Curtner</td>
+	
+		<td>241</td>
+	
+		<td>Ave</td>
+	
+		<td>H</td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94305</td>
+	
+		<td>8184683301</td>
+	
+		<td></td>
+	
+		<td>N/A</td>
+	
+		<td>N/A</td>
+	
+		<td>N/A</td>
+	
+		<td>28</td>
+	
+		<td>23</td>
+	
+		<td>2</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>12</td>
+	
+		<td>BUCKETS</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-09 17:52:49.05</td>
+	
+		<td>75.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17166</td>
+	
+		<td>david</td>
+	
+		<td>maselli</td>
+	
+		<td>dm@soletan.com</td>
+	
+		<td>ramona </td>
+	
+		<td>3532</td>
+	
+		<td>st</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650-858-2178</td>
+	
+		<td>650 996-5203</td>
+	
+		<td>30015019</td>
+	
+		<td>Kathryn/David</td>
+	
+		<td> Maselli</td>
+	
+		<td>48</td>
+	
+		<td>10</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>10</td>
+	
+		<td>MRP</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-09 19:53:31.1</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17176</td>
+	
+		<td>Joe </td>
+	
+		<td>Niccum</td>
+	
+		<td>joeniccum@gmail.com</td>
+	
+		<td>Webster</td>
+	
+		<td>940</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>6503808594</td>
+	
+		<td></td>
+	
+		<td>183410-20275</td>
+	
+		<td>Elizabeth</td>
+	
+		<td>Niccum</td>
+	
+		<td>43</td>
+	
+		<td>7</td>
+	
+		<td>4</td>
+	
+		<td>Full Time</td>
+	
+		<td>Goalie</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>2</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-11 01:08:10.687</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17179</td>
+	
+		<td>Marc</td>
+	
+		<td>Schoenen</td>
+	
+		<td>mschoenen@google.com</td>
+	
+		<td>Grove</td>
+	
+		<td>3908 Grove</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>2035054011</td>
+	
+		<td>2035054011</td>
+	
+		<td>30055713</td>
+	
+		<td>Veronica</td>
+	
+		<td>Oropeza</td>
+	
+		<td>37</td>
+	
+		<td>6</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-12 01:42:54.073</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17181</td>
+	
+		<td>Bogdan</td>
+	
+		<td>Ryczkowski</td>
+	
+		<td>agprycz@gmail.com</td>
+	
+		<td>UNIVERSITY </td>
+	
+		<td>1449</td>
+	
+		<td>AVE</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>650-325-3869</td>
+	
+		<td>650-714-9326</td>
+	
+		<td>126109-38725</td>
+	
+		<td>BOGDAN</td>
+	
+		<td>RYCZKOWSKI</td>
+	
+		<td>55</td>
+	
+		<td>30</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>9</td>
+	
+		<td>Polska</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-12 20:46:40.573</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17182</td>
+	
+		<td>Peter</td>
+	
+		<td>Ryczkowski</td>
+	
+		<td>ryczkowskip@gmail.com</td>
+	
+		<td>UNIVERSITY </td>
+	
+		<td>1449</td>
+	
+		<td>AVE</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>650-325-3869</td>
+	
+		<td>650-714-9326</td>
+	
+		<td>126109-38725</td>
+	
+		<td>BOGDAN</td>
+	
+		<td>RYCZKOWSKI</td>
+	
+		<td>34</td>
+	
+		<td>2</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>9</td>
+	
+		<td>Polska</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>5</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-12 20:50:26.5</td>
+	
+		<td>95.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17183</td>
+	
+		<td>Graham</td>
+	
+		<td>Dresden</td>
+	
+		<td>gdresden@gmail.com</td>
+	
+		<td>Princeton</td>
+	
+		<td>2294</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650-388-6141</td>
+	
+		<td></td>
+	
+		<td>30041511</td>
+	
+		<td>Graham</td>
+	
+		<td>Dresden</td>
+	
+		<td>38</td>
+	
+		<td>25</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>jakeymagoo</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-15 12:53:29.667</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17185</td>
+	
+		<td>Eddie</td>
+	
+		<td>Lopez</td>
+	
+		<td>chivas2000_53@yahoo.com</td>
+	
+		<td>UNIVERSITY </td>
+	
+		<td>1449</td>
+	
+		<td>AVE</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>650-325-3869</td>
+	
+		<td>650-281-5337</td>
+	
+		<td>126109-38725</td>
+	
+		<td>BOGDAN</td>
+	
+		<td>RYCZKOWSKI</td>
+	
+		<td>60</td>
+	
+		<td>45</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>9</td>
+	
+		<td>Polska</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>3</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-16 12:24:27.827</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17187</td>
+	
+		<td>Waldemar</td>
+	
+		<td>Osinski</td>
+	
+		<td>owaldek@yahoo.com</td>
+	
+		<td>UNIVERSITY </td>
+	
+		<td>1449</td>
+	
+		<td>AVE</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94301</td>
+	
+		<td>650-325-3869</td>
+	
+		<td>408-368-7672</td>
+	
+		<td>126109-38725</td>
+	
+		<td>BOGDAN</td>
+	
+		<td>RYCZKOWSKI</td>
+	
+		<td>52</td>
+	
+		<td>40</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>9</td>
+	
+		<td>Polska</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>4</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-16 12:29:26.227</td>
+	
+		<td>95.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17192</td>
+	
+		<td>Chris</td>
+	
+		<td>Johnson</td>
+	
+		<td>cwjohnson64@gmail.com</td>
+	
+		<td>St. Francis</td>
+	
+		<td>2286</td>
+	
+		<td>Dr.</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>408-348-5299</td>
+	
+		<td>408-867-6435</td>
+	
+		<td>30020423</td>
+	
+		<td>Thomas</td>
+	
+		<td>Howard</td>
+	
+		<td>49</td>
+	
+		<td>7</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>8</td>
+	
+		<td>jody1234</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-16 18:36:18.61</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17193</td>
+	
+		<td>marc</td>
+	
+		<td>boxser</td>
+	
+		<td>marcboxser@gmail.com</td>
+	
+		<td>ashton </td>
+	
+		<td>3454 </td>
+	
+		<td>court</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>9176797871</td>
+	
+		<td></td>
+	
+		<td>30068275</td>
+	
+		<td>marc</td>
+	
+		<td>boxser</td>
+	
+		<td>35</td>
+	
+		<td>20</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>7</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>3</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-16 19:52:56.64</td>
+	
+		<td>100.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17201</td>
+	
+		<td>Jimmy Tuan-Lien</td>
+	
+		<td>Ton</td>
+	
+		<td>jimmytton@sbcglobal.net</td>
+	
+		<td>Elbridge</td>
+	
+		<td>859</td>
+	
+		<td>Way</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94303</td>
+	
+		<td>6502086672</td>
+	
+		<td></td>
+	
+		<td>N/A</td>
+	
+		<td>Fred</td>
+	
+		<td>Fong</td>
+	
+		<td>54</td>
+	
+		<td>25</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 01:16:29.98</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17204</td>
+	
+		<td>Tao-ying</td>
+	
+		<td>Yau</td>
+	
+		<td>taoying_yau@yahoo.com</td>
+	
+		<td>Mariposa</td>
+	
+		<td>1621</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650-384-6380</td>
+	
+		<td></td>
+	
+		<td>30041557</td>
+	
+		<td>Andre</td>
+	
+		<td>Chan</td>
+	
+		<td>49</td>
+	
+		<td>39</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td>HughTao123</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 02:46:57.533</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17213</td>
+	
+		<td>Alex</td>
+	
+		<td>Limberis</td>
+	
+		<td>alex@limberis.net</td>
+	
+		<td>Rosecrest</td>
+	
+		<td>1456</td>
+	
+		<td>Terr</td>
+	
+		<td></td>
+	
+		<td>San Jose</td>
+	
+		<td>95126</td>
+	
+		<td>4089930770</td>
+	
+		<td>4088588108</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>58</td>
+	
+		<td>40</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:00:13.73</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17235</td>
+	
+		<td>Eddie</td>
+	
+		<td>Parenti</td>
+	
+		<td>eddie_parenti@hotmail.com</td>
+	
+		<td>Burnell</td>
+	
+		<td>153</td>
+	
+		<td>Lane</td>
+	
+		<td></td>
+	
+		<td>Menlo Park</td>
+	
+		<td>94025</td>
+	
+		<td>650-521-0899</td>
+	
+		<td>650-868-7120</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>42</td>
+	
+		<td>8</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>jakeymagoo</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:01:03.62</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17237</td>
+	
+		<td>Tomer</td>
+	
+		<td>Manor</td>
+	
+		<td>manor.tomer@gmail.com</td>
+	
+		<td>Jasper </td>
+	
+		<td>1574</td>
+	
+		<td>Drive</td>
+	
+		<td></td>
+	
+		<td>Sunnyvale</td>
+	
+		<td>94087</td>
+	
+		<td>408-9008878</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>43</td>
+	
+		<td>30</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>12</td>
+	
+		<td>Einav-Manor</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:01:05.77</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17252</td>
+	
+		<td>Liran</td>
+	
+		<td>Einav</td>
+	
+		<td>leinav@stanford.edu</td>
+	
+		<td>East Sunset</td>
+	
+		<td>13310</td>
+	
+		<td>Drive</td>
+	
+		<td></td>
+	
+		<td>Los Altos Hills</td>
+	
+		<td>94022</td>
+	
+		<td>650-209-5831</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>43</td>
+	
+		<td>30</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>9</td>
+	
+		<td>Einav-Manor</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:01:44.343</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17253</td>
+	
+		<td>Matthew</td>
+	
+		<td>Taylor</td>
+	
+		<td>matthewt@broadcom.com</td>
+	
+		<td>Sandyrock Ct</td>
+	
+		<td>1685</td>
+	
+		<td>St</td>
+	
+		<td></td>
+	
+		<td>San Jose</td>
+	
+		<td>95125</td>
+	
+		<td>408 806 8611</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>40</td>
+	
+		<td>34</td>
+	
+		<td>4</td>
+	
+		<td>Part Time</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:01:44.41</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17261</td>
+	
+		<td>Cian</td>
+	
+		<td>Kelly</td>
+	
+		<td>cianpkelly@yahoo.com</td>
+	
+		<td>Drucilla</td>
+	
+		<td>519</td>
+	
+		<td>Dr</td>
+	
+		<td></td>
+	
+		<td>Mountain View</td>
+	
+		<td>94040</td>
+	
+		<td>3017045255</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>34</td>
+	
+		<td>15</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:02:14.41</td>
+	
+		<td>80.0000</td>
+	
+		<td>Prefer B division</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17263</td>
+	
+		<td>Scott</td>
+	
+		<td>Sutherland</td>
+	
+		<td>suthersm@stanford.edu</td>
+	
+		<td>Sherwood</td>
+	
+		<td>420</td>
+	
+		<td>Way</td>
+	
+		<td></td>
+	
+		<td>Menlo Park</td>
+	
+		<td>94025</td>
+	
+		<td>650-473-9448</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>38</td>
+	
+		<td>8</td>
+	
+		<td>2</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>jakeymagoo</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>3</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:02:26.427</td>
+	
+		<td>80.0000</td>
+	
+		<td>I am happy to be a B coordinator, but don't want to be an A coordinator.</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17264</td>
+	
+		<td>Arcia </td>
+	
+		<td>Dorosti</td>
+	
+		<td>adorosti@pausd.org</td>
+	
+		<td>Burke</td>
+	
+		<td>25620 </td>
+	
+		<td>Ln.</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94063</td>
+	
+		<td>6508232374</td>
+	
+		<td></td>
+	
+		<td>n/a</td>
+	
+		<td>n/a</td>
+	
+		<td>n/a</td>
+	
+		<td>33</td>
+	
+		<td>25</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:02:32.963</td>
+	
+		<td>70.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17268</td>
+	
+		<td>Darryl</td>
+	
+		<td>Lin</td>
+	
+		<td>darryltlin@gmail.com</td>
+	
+		<td>Dell</td>
+	
+		<td>454</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Mountain View</td>
+	
+		<td>94043</td>
+	
+		<td>4087415927</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>29</td>
+	
+		<td>5</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>12</td>
+	
+		<td>mochi</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>4</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:02:41.46</td>
+	
+		<td>110.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17271</td>
+	
+		<td>Michael</td>
+	
+		<td>Halleck</td>
+	
+		<td>mhalleck@gmail.com</td>
+	
+		<td>Dell</td>
+	
+		<td>454</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Mountain View</td>
+	
+		<td>94043</td>
+	
+		<td>4083388829</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>38</td>
+	
+		<td>20</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>12</td>
+	
+		<td>mochi</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:02:51.0</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17272</td>
+	
+		<td>HITESH</td>
+	
+		<td>SHAH</td>
+	
+		<td>hitesh@hortonworks.com</td>
+	
+		<td>Morse</td>
+	
+		<td>1063</td>
+	
+		<td>Ave</td>
+	
+		<td>17-300</td>
+	
+		<td>Sunnyvale</td>
+	
+		<td>94089</td>
+	
+		<td>4088881312</td>
+	
+		<td></td>
+	
+		<td>CA</td>
+	
+		<td>N/A</td>
+	
+		<td>N/A</td>
+	
+		<td>33</td>
+	
+		<td>3</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>10</td>
+	
+		<td>HWX</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:02:51.94</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17281</td>
+	
+		<td>George</td>
+	
+		<td>Demarest</td>
+	
+		<td>g_demarest@yahoo.com</td>
+	
+		<td>Pharmer</td>
+	
+		<td>8465</td>
+	
+		<td>Road</td>
+	
+		<td></td>
+	
+		<td>Gilroy</td>
+	
+		<td>95020</td>
+	
+		<td>408-842-1282</td>
+	
+		<td>435.659.6089</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>52</td>
+	
+		<td>30</td>
+	
+		<td>2</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:03:29.267</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17283</td>
+	
+		<td>Siddharth</td>
+	
+		<td>Seth</td>
+	
+		<td>seth.siddharth@gmail.com</td>
+	
+		<td>E Dana</td>
+	
+		<td>200</td>
+	
+		<td>St</td>
+	
+		<td>D87</td>
+	
+		<td>Mountain View</td>
+	
+		<td>94041</td>
+	
+		<td>4088812890</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>32</td>
+	
+		<td>2</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>10</td>
+	
+		<td>HWX</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>2</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:03:35.763</td>
+	
+		<td>110.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17287</td>
+	
+		<td>Jesus</td>
+	
+		<td>Aragon</td>
+	
+		<td>jesusac00@yahoo.com</td>
+	
+		<td>Dell</td>
+	
+		<td>454</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Mountain View</td>
+	
+		<td>94043</td>
+	
+		<td>4085658021</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>37</td>
+	
+		<td>20</td>
+	
+		<td>2</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>10</td>
+	
+		<td>mochi</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>4</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:04:06.44</td>
+	
+		<td>110.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17288</td>
+	
+		<td>Tomoharu</td>
+	
+		<td>Kanie</td>
+	
+		<td>kanietomoharu@gmail.com</td>
+	
+		<td>N. Rengstorff </td>
+	
+		<td>265</td>
+	
+		<td>Ave.</td>
+	
+		<td>26</td>
+	
+		<td>Mountain</td>
+	
+		<td>94043</td>
+	
+		<td>650-796-3889</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>32</td>
+	
+		<td>0</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Any</td>
+	
+		<td>10</td>
+	
+		<td>Loktev</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>3</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:04:11.423</td>
+	
+		<td>110.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17298</td>
+	
+		<td>Pawel</td>
+	
+		<td>Kaminski</td>
+	
+		<td>kamienpl@gmail.com</td>
+	
+		<td>Homestead Rd</td>
+	
+		<td>1370</td>
+	
+		<td>Road</td>
+	
+		<td></td>
+	
+		<td>Santa Clara</td>
+	
+		<td>95050</td>
+	
+		<td>5713555883</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>32</td>
+	
+		<td>15</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:05:31.41</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17300</td>
+	
+		<td>Emrehan</td>
+	
+		<td>Kirimli</td>
+	
+		<td>emrehan_tr@yahoo.com</td>
+	
+		<td>Coleman</td>
+	
+		<td>3</td>
+	
+		<td>Place</td>
+	
+		<td>4</td>
+	
+		<td>Menlo Park</td>
+	
+		<td>94025</td>
+	
+		<td>4156136231</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>30</td>
+	
+		<td>10</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td>EsEs26</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>2</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:05:32.86</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17301</td>
+	
+		<td>Alan</td>
+	
+		<td>Schenck</td>
+	
+		<td>aschenck771@gmail.com</td>
+	
+		<td>Kimberly</td>
+	
+		<td>1784</td>
+	
+		<td>Drive</td>
+	
+		<td></td>
+	
+		<td>Sunnyvale</td>
+	
+		<td>94087</td>
+	
+		<td>408-739-9134</td>
+	
+		<td>408-219-3438</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>58</td>
+	
+		<td>10</td>
+	
+		<td>5</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:05:36.573</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17303</td>
+	
+		<td>Bruce</td>
+	
+		<td>Kelson</td>
+	
+		<td>bkelson@manatt.com</td>
+	
+		<td>Pinecrest</td>
+	
+		<td>526</td>
+	
+		<td>Drive</td>
+	
+		<td></td>
+	
+		<td>Los Altos</td>
+	
+		<td>94024</td>
+	
+		<td>650-964-4039</td>
+	
+		<td>415-291-7419</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>48</td>
+	
+		<td>40</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:05:46.797</td>
+	
+		<td>80.0000</td>
+	
+		<td>Former club/high school player; played 1 year in college (Dartmouth).</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17313</td>
+	
+		<td>Jonathan </td>
+	
+		<td>Lee</td>
+	
+		<td>jlee@cendogroup.com</td>
+	
+		<td>Lupine </td>
+	
+		<td>27751 </td>
+	
+		<td>Road</td>
+	
+		<td></td>
+	
+		<td>Los Altos Hills</td>
+	
+		<td>94022</td>
+	
+		<td>650-917-9840</td>
+	
+		<td>650-279-2391</td>
+	
+		<td>N/A</td>
+	
+		<td> </td>
+	
+		<td> </td>
+	
+		<td>53</td>
+	
+		<td>38</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>8</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:08:12.927</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17316</td>
+	
+		<td>Zeyar</td>
+	
+		<td>Htet</td>
+	
+		<td>zeyarhtet@gmail.com</td>
+	
+		<td>Showers</td>
+	
+		<td>2255</td>
+	
+		<td>Drive</td>
+	
+		<td>282</td>
+	
+		<td>Mountain View</td>
+	
+		<td>94040</td>
+	
+		<td>917-622-8900</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>30</td>
+	
+		<td>20</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>11</td>
+	
+		<td>qwerty</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:08:43.263</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17318</td>
+	
+		<td>Hugh</td>
+	
+		<td>McIntyre</td>
+	
+		<td>hm@mcintyreweb.com</td>
+	
+		<td>W McKinley</td>
+	
+		<td>795</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Sunnyvale</td>
+	
+		<td>94086</td>
+	
+		<td>4085231412</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>48</td>
+	
+		<td>40</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>10</td>
+	
+		<td>HughTao123</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:09:41.24</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17320</td>
+	
+		<td>Mark</td>
+	
+		<td>Lazar</td>
+	
+		<td>mark@lazarfamily.com</td>
+	
+		<td>Fernhill</td>
+	
+		<td>25600 </td>
+	
+		<td>Drive</td>
+	
+		<td></td>
+	
+		<td>Los Altos HIlls</td>
+	
+		<td>94024</td>
+	
+		<td>650-346-9792</td>
+	
+		<td>650-346-9792</td>
+	
+		<td></td>
+	
+		<td>Mark</td>
+	
+		<td>Lazar</td>
+	
+		<td>53</td>
+	
+		<td>35</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:10:01.673</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17325</td>
+	
+		<td>Avi</td>
+	
+		<td>Shetty</td>
+	
+		<td>avinash.shetty@gmail.com</td>
+	
+		<td>Ryland </td>
+	
+		<td>190 </td>
+	
+		<td>St</td>
+	
+		<td>3220</td>
+	
+		<td>San Jose</td>
+	
+		<td>95110</td>
+	
+		<td>9162139596</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>33</td>
+	
+		<td>16</td>
+	
+		<td>2</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Fullback</td>
+	
+		<td>12</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:11:36.883</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17329</td>
+	
+		<td>Guy</td>
+	
+		<td>Miasnik</td>
+	
+		<td>guy1@miasnik.com</td>
+	
+		<td>Carlos Privada</td>
+	
+		<td>1148</td>
+	
+		<td>St. </td>
+	
+		<td></td>
+	
+		<td>Mountain View</td>
+	
+		<td>94040</td>
+	
+		<td>6509880799</td>
+	
+		<td>6502919411</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>44</td>
+	
+		<td>3</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>8</td>
+	
+		<td>Einav-Manor</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>4</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:12:35.997</td>
+	
+		<td>110.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17332</td>
+	
+		<td>Samuel</td>
+	
+		<td>Lada</td>
+	
+		<td>samlada@gmail.com</td>
+	
+		<td>Mariposa</td>
+	
+		<td>1550</td>
+	
+		<td>Ave</td>
+	
+		<td></td>
+	
+		<td>Palo Alto</td>
+	
+		<td>94306</td>
+	
+		<td>650-906-8405</td>
+	
+		<td></td>
+	
+		<td>30060802</td>
+	
+		<td>samual</td>
+	
+		<td>lada</td>
+	
+		<td>37</td>
+	
+		<td>6</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>jakeymagoo</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:13:38.207</td>
+	
+		<td>70.0000</td>
+	
+		<td>I plan to play with Scott Sutherland</td>
+	
+</tr>
+
+<tr>
+	
+		<td>17333</td>
+	
+		<td>Bruno</td>
+	
+		<td>Evangelista</td>
+	
+		<td>bpevangelista@gmail.com</td>
+	
+		<td>Blair</td>
+	
+		<td>859</td>
+	
+		<td>Ave</td>
+	
+		<td>3</td>
+	
+		<td>Sunnyvale</td>
+	
+		<td>94087</td>
+	
+		<td>650-799-3971</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>28</td>
+	
+		<td>4</td>
+	
+		<td>4</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Midfield</td>
+	
+		<td>10</td>
+	
+		<td>qwerty</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>4</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-17 15:14:42.15</td>
+	
+		<td>110.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+<tr>
+	
+		<td>17335</td>
+	
+		<td>Josh</td>
+	
+		<td>Brumm</td>
+	
+		<td>jtbrumm@msn.com</td>
+	
+		<td>Monte Rosa</td>
+	
+		<td>715</td>
+	
+		<td>Drive</td>
+	
+		<td></td>
+	
+		<td>Menlo Park</td>
+	
+		<td>94025</td>
+	
+		<td>6503886802</td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td></td>
+	
+		<td>36</td>
+	
+		<td>10</td>
+	
+		<td>3</td>
+	
+		<td>Prefer Not</td>
+	
+		<td>Forward</td>
+	
+		<td>12</td>
+	
+		<td>GRAHAMBO</td>
+	
+		<td></td>
+	
+		<td>0</td>
+	
+		<td>1</td>
+	
+		<td>0</td>
+	
+		<td>0</td>
+	
+		<td>2013-09-22 12:14:43.523</td>
+	
+		<td>80.0000</td>
+	
+		<td></td>
+	
+</tr>
+
+</table>
+
+

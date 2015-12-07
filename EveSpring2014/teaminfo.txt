@@ -1,0 +1,94 @@
+Team  1 Any : 18 players; Lvl: 2.9 [1 3 11 3 0] Games: 10.1 Age: 44.2 <30: 1 <35: 2 <45: 7 <55: 5 >55: 3 >65: 0 Goalies:0.0  D:5 F:2
+Graham Dresden            39 PA E S: 3 CS: 1 c  M    17 papaparenti No gdresden@gmail.com 
+Eric Hill                 43 PA E S: 2 CS: -    A    10 papaparenti No eric.l.hill@gmail.com 
+Justin Beck               30 PA E S: 2 CS: - c  A    10            No beckaccounts@gmail.com 
+Scott Sutherland          39    E S: 2 CS: 2 C* M     8 papaparenti No suthersm@stanford.edu 
+Adam Olshen               46 PA E S: 4 CS: 3    M    10            No olshen@gmail.com 
+Adolfo Chou               42 PA E S: 3 CS: -    D    10            No chou_a@yahoo.com 
+Christoph Pojer           25 PA E S: 3 CS: -    M    11            No christoph.pojer@gmail.com 
+Eddie Parenti             43    E S: 3 CS: -    M    10 papaparenti No eddie_parenti@hotmail.com 
+Kim Limbrick              52 PA E S: 4 CS: 3    M     8 gooners    No kim.limbrick@gmail.com 
+Leon Leong                58 PA E S: 5 CS: 3    D    10            No lyleong@pacbell.net 
+Marc Joseph               59    E S: 4 CS: 3    D     9            No marc.joseph@sbcglobal.net 
+Nick Brock                36 PA E S: 3 CS: -    M    12            No nearpost@aol.com 
+Peter Danzig              54    E S: 3 CS: -    M    10            No pbdanzig@gmail.com 
+Ralph Bredenberg          57 PA E S: 3 CS: -    F    10            No ralphbredenberg@comcast.net 
+david maselli             49 PA E S: 3 CS: 3    F    10            No dm@soletan.com 
+Emrehan Kirimli           31    E S: 3 CS: 4 c  D    10 eses26     No emrehan_tr@yahoo.com 
+Ryan Helft                42 PA E S: 4 CS: -    M     8            No rhelft@gmail.com 
+Tmothy Misner             51 PA E S: 5 CS: 4 C  D     9 gooners    No timothymisner@aya.yale.edu 
+
+Team  2 Any : 21 players; Lvl: 3.2 [1 3 9 6 2] Games: 11.0 Age: 43.8 <30: 3 <35: 3 <45: 2 <55: 8 >55: 5 >65: 0 Goalies:0.0  D:5 F:2
+Gui Bastos                40 PA E S: 4 CS: 1    M    17 mzmb       No guibastos@gmail.com 
+Mario Trejo                1 PA E S: 2 CS: -    M    10 mn23       No mario.trejo@gmail.com 
+andres aldrete            51    E S: 2 CS: -    D    14            No amaldrete63@gmail.com 
+christophe suchet         45 PA E S: 2 CS: 2    M    10 grahambo   No cdsuchet@comcast.net 
+Bruce Graham              54 PA E S: 3 CS: 3    M    10            No graham.brucek@gmail.com 
+Casey koulman             57 PA E S: 3 CS: 3    D    13 casey      No caseykoulman@gmail.com 
+Larry Blair               61 PA E S: 3 CS: -    M    11 skiutah    No larryblair@gmail.com 
+Mike Chan                 33 PA E S: 3 CS: -    F    10 mn23       No  chanman.mike@gmail.com 
+Nicholas Keehn            30    E S: 3 CS: -    M    12            No ecthelionv@gmail.com 
+Ryan Gonzales             29 PA E S: 3 CS: -  * M    17 mn23       No gonzito2004@yahoo.com 
+Stuart Reid               50    E S: 5 CS: 3    M    12            No stuart.reid@sbcglobal.net 
+Sudipto Aich              29 PA E S: 4 CS: 3    F    10            No 13sudipto@gmail.com 
+Tom Furlong               56 PA E S: 3 CS: -    D     8            No tom.furlong@gmail.com 
+Alex Limberis             59    E S: 4 CS: 4    M    10            No alex@limberis.net 
+Alexander Loktev          38 PA E S: 4 CS: 4    M    10 loktev     No sasha.loktev@gmail.com 
+Jonathan Chen             47 PA E S: 4 CS: -    D     8 mn23       No jcpaloalto@gmail.com 
+Michael Stewart           64    E S: 4 CS: 4    D     8            No michael.stewart@stanfordalumni.org 
+Steve Renaker             45 PA E S: 4 CS: -    M    10            No srenaker@gmail.com 
+Todd Jin                  46 PA E S: 4 CS: -    M    10 prc        No todd_jin@yahoo.com 
+Luke Thivierge            34 PA E S: 5 CS: 5    A    10            No luke.thivierge@mac.com 
+sungho kim                51 PA E S: 4 CS: 5    M    11 fifa2014   No sungho63@gmail.com 
+
+Team  3 Any : 18 players; Lvl: 3.0 [1 3 9 5 0] Games:  9.9 Age: 41.8 <30: 1 <35: 4 <45: 6 <55: 6 >55: 1 >65: 0 Goalies:1.0  D:5 F:1
+Pawel Kaminski            33    E S: 3 CS: 1    M    12            No kamienpl@gmail.com 
+Bruno Colchen             41 PA E S: 2 CS: -    D    10            No bcolchen@hotmail.com 
+Lawrence Nguyen           26    E S: 2 CS: -    M    10 bayern13   No lawng47@gmail.com 
+Patrick Metzger           54    E S: 2 CS: -    M     7 bayern13   No patrick.metzger@gmail.com 
+Barry Hart                49 PA E S: 3 CS: 3    D    10            No hartb88@yahoo.com 
+Brandon Graffeo           40 PA E S: 3 CS: 3    M     9 mrp        No mbgraffeo@gmail.com 
+Chad Barbieri             46    E S: 3 CS: 3    M    12 usa        No chadbarbieri@yahoo.com 
+Darien Rrushi             33    E S: 3 CS: -    M    12            No darienrrushi@gmail.com 
+David Ray                 30 PA E S: 3 CS: 3    M     6            No dsray1984@gmail.com 
+Kalidip Choudhury         50 PA E S: 3 CS: 3 c* M    10            No kalidip@yahoo.com 
+Marc Schoenen             38 PA E S: 3 CS: 3    D    10            No mschoenen@google.com 
+Marcelo Clerici-Arias     49 PA E S: 5 CS: 3    D     8            No marcelo@stanford.edu 
+Robin Peatfield           58    E S: 3 CS: -    F    13            No robinpeatfield@yahoo.com 
+Anatoly Surdutovich       43 PA E S: 4 CS: - c  D     8            No asurdutovich@gmail.com 
+CAMILO COLORADO           34    E S: 4 CS: -    M    12 usa        No ccolorad@mail.usf.edu 
+Chris Hetterly            47 PA E S: 4 CS: 4    A    10 mrp        No hetterly@sbcglobal.net 
+Itay Fainmesser           37 PA E S: 4 CS: -    A     9 einav-manor No i.p.fainmesser@gmail.com 
+Joe  Niccum               44 PA E S: 4 CS: -    G FT 10            No joeniccum@gmail.com 
+
+Team  4 Any : 17 players; Lvl: 3.1 [0 3 10 3 1] Games:  9.8 Age: 43.4 <30: 2 <35: 3 <45: 5 <55: 4 >55: 3 >65: 0 Goalies:0.5  D:4 F:3
+Boris Murmann             44 PA E S: 3 CS: 2    M     9            No murmann@stanford.edu 
+Samuel Lada               38 PA E S: 4 CS: 2    D    12 papaparenti No samlada@gmail.com 
+jean-baptiste pringuey    31    E S: 2 CS: -    M    11 bayern10   No jbpringuey@gmail.com 
+Arman Khalili             43    E S: 3 CS: - c* A    12 toru3      No arman4711@yahoo.com 
+David Stahler             45 PA E S: 3 CS: -    A    12            No dstahler@gmail.com 
+Fuad Abu Nofal            56    E S: 3 CS: 3    A    12            No fabunofal@yahoo.com 
+Guriq Basi                58 PA E S: 3 CS: -    M     8            No gsjkbasi@pacbell.net 
+Jeff Greenfield           53 PA E S: 4 CS: 3    F     6 jkl        No jeffg13@gmail.com 
+Jonathan  Lee             54    E S: 3 CS: 3    M    10            No jlee@cendogroup.com 
+Marcus Middleton          43 PA E S: 3 CS: -    F     9            No gusmid@hotmail.com 
+Marius Dumitran           29    E S: 5 CS: 3    F     3 romania    No daniel_dumitran@yahoo.com 
+Octavian Dumitran         31    E S: 3 CS: 3    M    12 romania    No daniel.dumitran@gmail.com 2012: Young & developing
+Zeyar Htet                31    E S: 3 CS: -    M    11 qwerty     No zeyarhtet@gmail.com 
+Bruno Evangelista         29    E S: 4 CS: -    M    12 qwerty     No bpevangelista@gmail.com 
+Loic Vandereyken          51 PA E S: 4 CS: -    D    10 jkl        No loicv@vandereyken.com 
+Matthew Taylor            41    E S: 4 CS: -    D pt 10            No matthewt@broadcom.com 
+Kevin Mayer               61 PA E S: 5 CS: -    D     8 jkl        No mayer.zimmer@gmail.com 
+
+Team  1 Any : 18 players; Lvl: 2.9 [1 3 11 3 0] Games: 10.1 Age: 44.2 <30: 1 <35: 2 <45: 7 <55: 5 >55: 3 >65: 0 Goalies:0.0  D:5 F:2
+Team  2 Any : 21 players; Lvl: 3.2 [1 3 9 6 2] Games: 11.0 Age: 43.8 <30: 3 <35: 3 <45: 2 <55: 8 >55: 5 >65: 0 Goalies:0.0  D:5 F:2
+Team  3 Any : 18 players; Lvl: 3.0 [1 3 9 5 0] Games:  9.9 Age: 41.8 <30: 1 <35: 4 <45: 6 <55: 6 >55: 1 >65: 0 Goalies:1.0  D:5 F:1
+Team  4 Any : 17 players; Lvl: 3.1 [0 3 10 3 1] Games:  9.8 Age: 43.4 <30: 2 <35: 3 <45: 5 <55: 4 >55: 3 >65: 0 Goalies:0.5  D:4 F:3
+Waiting list of 0 players
+Equipment order
+Small                  :   0
+Medium                 :   0
+Large                  :   0
+XL                     :   0
+XXL                    :   0
+socks                  :   0

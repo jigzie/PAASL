@@ -1,0 +1,74 @@
+team,RegistrationID,FirstName,LastName,EMail,StreetName,StreetNumber,StreetType,Apartment,City,ZIP,HomePhone,WorkPhone,PAU_Account,OwnerFirstName,OwnerLastName,age,experience,skill,goalie,position,games,groupcode,coord,Otherleague,WillingCoordinator,ShirtSize,Socks,RegistrationStamp,TotalCharge,Comments,TimePreference,ShirtNumber,Needpass,DivisionChoice
+1,17176,Joe,Niccum,joeniccum@gmail.com,Webster,940,St,,Palo Alto,94301,6503808594,,183410-20275,Elizabeth,Niccum,43,7,4,FT,Goalie,10,,,0,2,,0,41528.04735,70,,0,,0,2
+1,17109,Gui,Bastos,guibastos@gmail.com,Forest,365,Ave,2C,Palo Alto,94301,650 906-9253,408 431-9649,185113-28516,Sonia,Wong,39,5,4,,Midfield,17,MZMB,,0,1,,0,41515.09928,70,,0,17,0,2
+1,17063,Kevin,Mayer,mayer.zimmer@gmail.com,Ross,3791,Road,,Palo Alto,94303,650 4240736,,30037832,Barbara,Zimmer,60,45,5,,Fullback,10,jkl,,0,1,,0,41511.12023,0,Thank you,0,35,0,2
+1,17040,Loic,Vandereyken,loicv@vandereyken.com,Waverley,3330,St,,Palo Alto,94306,650 856 0247,,30016018,Chantal,Eril,50,20,4,,Fullback,10,jkl,,0,1,,0,41509.0596,0,,0,36,0,2
+1,17124,Jeff,Greenfield,jeffg13@gmail.com,Waverley,3476,St,,Palo Alto,94306,650.494.9331,650.766.0511,30023918,Marilyn,Keller,52,42,3,,Forward,7,jkl,,0,1,,0,41516.73343,0,,0,13,0,2
+1,17136,Luke,Thivierge,luke.thivierge@mac.com,Clark,1233,Way,,Palo Alto,94304,650-644-9208,,30004727,Lisa,Kubicki,33,5,5,,Any,10,,,0,1,,0,41517.65392,70,I still do not have my player pass.,0,17,0,2
+1,17043,christophe,suchet,cdsuchet@comcast.net,Somerset,41,place,,Palo Alto,94301,6507145534,,30049849,Christophe,Suchet,44,34,2,,Midfield,10,GRAHAMBO,,0,1,,0,41509.51401,70,,0,20,0,2
+1,17335,Josh,Brumm,jtbrumm@msn.com,Monte Rosa,715,Drive,,Menlo Park,94025,6503886802,,,,,36,10,3,,Forward,12,GRAHAMBO,,0,1,,0,41539.51023,80,,0,11,0,5
+1,17325,Avi,Shetty,avinash.shetty@gmail.com,Ryland,190,St,3220,San Jose,95110,9162139596,,,,,33,16,2,,Fullback,12,,,0,1,,0,41534.63307,80,,0,21,0,2
+1,17316,Zeyar,Htet,zeyarhtet@gmail.com,Showers,2255,Drive,282,Mountain View,94040,917-622-8900,,,,,30,20,3,,Midfield,11,qwerty,,0,1,,0,41534.63106,80,,0,25,0,2
+1,17333,Bruno,Evangelista,bpevangelista@gmail.com,Blair,859,Ave,3,Sunnyvale,94087,650-799-3971,,,,,28,4,4,,Midfield,10,qwerty,,0,1,L,0,41534.63521,110,,0,10,1,2
+1,17062,Leon,Leong,lyleong@pacbell.net,Byron,138,St,,Palo Alto,94301,650-224-4574,,3000-1448,Leon,Leong,57,3,5,,Fullback,10,,,0,1,,0,41511.06179,70,B league please.,0,22,0,2
+1,17151,David,Enemark,davidenemark@gmail.com,Middlefield,3655A,Road,,Palo Alto,94303,650-388-8737,,30050608,David,Enemark,33,2,5,,Fullback,9,Noah,,0,1,,0,41521.96035,70,Noah,0,2,0,2
+1,17162,Tom,Furlong,tom.furlong@gmail.com,Kings,1499,Lane,,Palo Alto,94303,650.325.2758,415.591.7709,132846-43379,Ann,Williams,55,43,3,,Midfield,10,,,0,1,,0,41526.64393,70,FORM WON'T LET ME CHANGE THE DIVISION I WANT TO PLAY IN TO B,0,8,0,2
+1,17100,Fuad,Abu Nofal,fabunofal@yahoo.com,Highlands,866,Cir,,Los Altos,94024,650 969 4786,650 469 3585,,,,55,10,3,,Any,12,,,0,1,,0,41514.51754,0,,0,24,0,2
+1,16985,Larry,Blair,larryblair@gmail.com,Emerson,2886,St,,Palo Alto,94306,650-804-0269,,129727-35378,Beth,Blair,60,48,4,,Fullback,10,,,0,1,,0,41505.94711,70,,0,22,0,2
+1,17145,Antonio,Hardan,antoniohardan@yahoo.com,El Capitan,482,Place,,Palo Alto,94306,6505210624,6507235511,30032876,Antonio,Hardan,49,40,4,,Fullback,9,,,0,1,,0,41521.0258,70,,0,13,0,5
+1,17213,Alex,Limberis,alex@limberis.net,Rosecrest,1456,Terr,,San Jose,95126,4089930770,4088588108,,,,58,40,4,,Forward,10,,,0,1,,0,41534.62516,80,,0,14,0,2
+2,17253,Matthew,Taylor,matthewt@broadcom.com,Sandyrock Ct,1685,St,,San Jose,95125,408 806 8611,,,,,40,34,4,pt,Fullback,10,,,0,1,,0,41534.62621,80,,0,3,0,5
+2,17264,Arcia,Dorosti,adorosti@pausd.org,Burke,25620,Ln.,,Palo Alto,94063,6508232374,,n/a,n/a,n/a,33,25,3,,Midfield,10,,,0,1,,0,41534.62677,70,,0,6,0,5
+2,17181,Bogdan,Ryczkowski,agprycz@gmail.com,UNIVERSITY,1449,AVE,,Palo Alto,94301,650-325-3869,650-714-9326,126109-38725,BOGDAN,RYCZKOWSKI,55,30,5,,Midfield,9,Polska,,0,1,,0,41529.86575,70,,0,27,0,2
+2,17182,Peter,Ryczkowski,ryczkowskip@gmail.com,UNIVERSITY,1449,AVE,,Palo Alto,94301,650-325-3869,650-714-9326,126109-38725,BOGDAN,RYCZKOWSKI,34,2,5,,Fullback,9,Polska,,0,1,XL,0,41529.86836,95,,0,15,0,2
+2,17185,Eddie,Lopez,chivas2000_53@yahoo.com,UNIVERSITY,1449,AVE,,Palo Alto,94301,650-325-3869,650-281-5337,126109-38725,BOGDAN,RYCZKOWSKI,60,45,5,,Any,9,Polska,,0,3,,0,41533.51699,70,,0,37,0,2
+2,17187,Waldemar,Osinski,owaldek@yahoo.com,UNIVERSITY,1449,AVE,,Palo Alto,94301,650-325-3869,408-368-7672,126109-38725,BOGDAN,RYCZKOWSKI,52,40,5,,Any,9,Polska,,0,1,L,0,41533.52044,95,,0,9,0,2
+2,17014,Bob,Pratt,rpratt@stanfordalumni.org,Miller,4374,Court,,Palo Alto,94306,650-255-1588,650-255-1588,119360-28443,Rick,Reddy,46,39,3,,Forward,12,skiutah,,0,3,,0,41507.50914,70,,0,10,0,2
+2,17028,Chris,Roon,chris@roononline.com,Briarwood,4123,Way,,Palo Alto,94306,650 868 7440,,1188846-29173,Meri,Gruber,57,30,3,,Fullback,8,skiutah,,0,1,,0,41508.48417,70,,0,30,0,2
+2,17163,Timothy,Greene,timothydgreene@gmail.com,Curtner,241,Ave,H,Palo Alto,94305,8184683301,,N/A,N/A,N/A,28,23,2,,Midfield,12,BUCKETS,,0,1,,0,41526.74501,75,,0,,1,5
+2,17272,HITESH,SHAH,hitesh@hortonworks.com,Morse,1063,Ave,17-300,Sunnyvale,94089,4088881312,,CA,N/A,N/A,33,3,4,,Any,10,HWX,,0,1,,0,41534.62699,80,,0,14,0,2
+2,17283,Siddharth,Seth,seth.siddharth@gmail.com,E Dana,200,St,D87,Mountain View,94041,4088812890,,,,,32,2,4,,Any,10,HWX,,0,1,S,0,41534.6275,110,,0,,1,2
+2,17060,Casey,koulman,caseykoulman@gmail.com,Walter Hays,122,Drive,,Palo Alto,94303,4157225561,,30024735,Patricia,Cox,56,21,3,,Fullback,13,casey,,0,1,,0,41511.04252,70,thanks Loic,0,,0,2
+2,17142,Sudipto,Aich,13sudipto@gmail.com,Alma,3189,St,,Palo Alto,94306,5404494640,,30066534,Sudipto,Aich,28,4,4,,Forward,8,,,0,1,,0,41519.72852,70,,0,16,0,2
+2,17159,Romain,Madelaine,romain.madelaine@stanford.edu,Layne Court,751,Court,13,Palo Alto,94306,6505752759,6505752759,30057556,Romain,Madelaine,30,4,3,,Midfield,10,,,0,1,,0,41525.98964,70,,0,23,0,5
+2,17201,Jimmy Tuan-Lien,Ton,jimmytton@sbcglobal.net,Elbridge,859,Way,,Palo Alto,94303,6502086672,,N/A,Fred,Fong,54,25,3,,Any,12,,,0,1,,0,41534.05312,70,,0,2,0,2
+2,17313,Jonathan,Lee,jlee@cendogroup.com,Lupine,27751,Road,,Los Altos Hills,94022,650-917-9840,650-279-2391,N/A,,,53,38,3,,Midfield,8,,,0,1,,0,41534.63071,80,,0,14,0,2
+2,17089,Srini,Sankaran,srinisan@gmx.com,Ferne,464,Ave,,Palo Alto,94306,650-494-7685,650-520-5907,30006903,Srini,Sankaran,50,10,4,,Any,9,,,0,1,,0,41512.67892,70,,0,19,0,2
+2,17193,marc,boxser,marcboxser@gmail.com,ashton,3454,court,,Palo Alto,94306,9176797871,,30068275,marc,boxser,35,20,4,,Forward,7,,,0,1,M,0,41533.82843,100,,0,,1,5
+3,17183,Graham,Dresden,gdresden@gmail.com,Princeton,2294,St,,Palo Alto,94306,650-388-6141,,30041511,Graham,Dresden,38,25,3,,Midfield,10,jakeymagoo,,0,1,,0,41532.53715,70,,0,2,0,2
+3,17235,Eddie,Parenti,eddie_parenti@hotmail.com,Burnell,153,Lane,,Menlo Park,94025,650-521-0899,650-868-7120,,,,42,8,3,,Midfield,10,jakeymagoo,,0,1,,0,41534.62574,80,,0,37,0,2
+3,17263,Scott,Sutherland,suthersm@stanford.edu,Sherwood,420,Way,,Menlo Park,94025,650-473-9448,,,,,38,8,2,,Midfield,10,jakeymagoo,,0,3,,0,41534.62669,80,"I am happy to be a B coordinator, but don't want to be an A coordinator.",0,21,0,2
+3,17332,Samuel,Lada,samlada@gmail.com,Mariposa,1550,Ave,,Palo Alto,94306,650-906-8405,,30060802,samual,lada,37,6,4,,Midfield,10,jakeymagoo,,0,1,,0,41534.63447,70,I plan to play with Scott Sutherland,0,2,0,2
+3,17318,Hugh,McIntyre,hm@mcintyreweb.com,W McKinley,795,Ave,,Sunnyvale,94086,4085231412,,,,,48,40,4,,Fullback,10,HughTao123,,0,1,,0,41534.63173,80,,0,4,0,2
+3,17204,Tao-ying,Yau,taoying_yau@yahoo.com,Mariposa,1621,Ave,,Palo Alto,94306,650-384-6380,,30041557,Andre,Chan,49,39,4,,Fullback,10,HughTao123,,0,1,,0,41534.11594,70,,0,20,0,2
+3,17237,Tomer,Manor,manor.tomer@gmail.com,Jasper,1574,Drive,,Sunnyvale,94087,408-9008878,,,,,43,30,3,,Forward,12,Einav-Manor,,0,1,,0,41534.62576,80,,0,30,0,2
+3,17140,Itay,Fainmesser,i.p.fainmesser@gmail.com,Grant,425,Ave,22,Palo Alto,94306,7652696601,,30066525,Itay,Fainmesser,36,3,4,,Any,9,Einav-Manor,,0,1,L,0,41519.63161,100,,0,,1,2
+3,17252,Liran,Einav,leinav@stanford.edu,East Sunset,13310,Drive,,Los Altos Hills,94022,650-209-5831,,,,,43,30,3,,Fullback,9,Einav-Manor,,0,1,,0,41534.62621,80,,0,2,0,2
+3,17329,Guy,Miasnik,guy1@miasnik.com,Carlos Privada,1148,St.,,Mountain View,94040,6509880799,6502919411,,,,44,3,4,,Midfield,8,Einav-Manor,,0,1,L,0,41534.63375,110,,0,,1,2
+3,16993,robert,blatman,rgblatman@aol.com,lincoln,965,ave.,,Palo Alto,94301,650-269-1491,650-269-1491,12837638801,robert,blatman,58,39,4,,Forward,14,,,0,1,,0,41506.58299,70,,0,27,0,2
+3,17093,Florin,Constantin,florharv@gmail.com,Lytton,130,Ave,,Palo Alto,94301,6178945201,,30060733,Gabriel,Constantin,33,5,4,,Fullback,9,Romania,,0,1,,0,41513.73489,70,,0,6,0,2
+3,17155,Adam,Olshen,olshen@gmail.com,Bryson,615,Ave,,Palo Alto,94306,6505613551,,30004196,Adam,Olshen,45,20,4,,Midfield,10,HD267,,0,1,,0,41523.59602,70,,0,19,0,2
+3,17179,Marc,Schoenen,mschoenen@google.com,Grove,3908 Grove,Ave,,Palo Alto,94303,2035054011,2035054011,30055713,Veronica,Oropeza,37,6,3,,Fullback,10,,,0,1,,0,41529.07146,70,,0,23,0,2
+3,17261,Cian,Kelly,cianpkelly@yahoo.com,Drucilla,519,Dr,,Mountain View,94040,3017045255,,,,,34,15,3,,Midfield,12,,,0,1,,0,41534.62656,80,Prefer B division,0,14,0,5
+3,16984,sungho,kim,sungho63@gmail.com,bret harte,1873,st,,Palo Alto,94303,6503299771,4089217798,CA 30003284,sungho,kim,50,1,5,,Midfield,11,FIFA2014,,0,1,,0,41505.94549,70,prefer B division. A is O.K. if B is unavailable.,0,31,0,5
+3,17125,Todd,Jin,todd_jin@yahoo.com,ross,3803,road,,Palo Alto,94303,6503208396,,30034762,tao,jin,45,10,4,,Midfield,10,prc,,0,1,,0,41516.74454,75,,0,8,1,2
+3,17300,Emrehan,Kirimli,emrehan_tr@yahoo.com,Coleman,3,Place,4,Menlo Park,94025,4156136231,,,,,30,10,4,,Fullback,10,EsEs26,,0,2,,0,41534.62885,80,,0,9,0,2
+4,17064,Vikas,Kedia,kedia.vikas@gmail.com,Yale Street,2150,Resid,,Palo Alto,94306,775-443-6747,,3006-8058,Vidushi,Savant,36,2,4,pt,Midfield,12,,,0,3,M,0,41511.31178,100,,0,,1,5
+4,17298,Pawel,Kaminski,kamienpl@gmail.com,Homestead Rd,1370,Road,,Santa Clara,95050,5713555883,,,,,32,15,3,,Midfield,12,,,0,1,,0,41534.62884,80,,0,27,0,2
+4,17288,Tomoharu,Kanie,kanietomoharu@gmail.com,N. Rengstorff,265,Ave.,26,Mountain,94043,650-796-3889,,,,,32,0,5,,Any,10,Loktev,,0,1,M,0,41534.62791,110,,0,,1,2
+4,17099,Alexander,Loktev,sasha.loktev@gmail.com,Tahoe,1126,Lane,,Palo Alto,94303,6503212010,,30050424,Alexander,Loktev,37,2,4,,Midfield,10,loktev,,0,1,,0,41514.43868,70,,0,19,0,2
+4,17081,Paul,Huard,huard@yahoo.com,Sequoia,350,Ave,,Palo Alto,94306,808-282-6019,808-282-6019,152004-28891,Paul,Huard,44,2,5,,Fullback,10,pasc,,0,2,,0,41512.00385,70,"AYSO coach for some time and I enjoy playing, but little experience as a player and it shows.",0,18,0,2
+4,17301,Alan,Schenck,aschenck771@gmail.com,Kimberly,1784,Drive,,Sunnyvale,94087,408-739-9134,408-219-3438,,,,58,10,5,,Fullback,12,,,0,1,,0,41534.6289,80,,0,17,0,2
+4,17287,Jesus,Aragon,jesusac00@yahoo.com,Dell,454,Ave,,Mountain View,94043,4085658021,,,,,37,20,2,,Forward,10,mochi,,0,1,L,0,41534.62785,110,,0,,1,2
+4,17268,Darryl,Lin,darryltlin@gmail.com,Dell,454,Ave,,Mountain View,94043,4087415927,,,,,29,5,4,,Forward,12,mochi,,0,1,L,0,41534.62687,110,,0,,1,2
+4,17271,Michael,Halleck,mhalleck@gmail.com,Dell,454,Ave,,Mountain View,94043,4083388829,,,,,38,20,3,,Any,12,mochi,,0,1,,0,41534.62698,80,,0,,0,2
+4,17281,George,Demarest,g_demarest@yahoo.com,Pharmer,8465,Road,,Gilroy,95020,408-842-1282,435.659.6089,,,,52,30,2,,Midfield,10,,,0,1,,0,41534.62742,80,,0,26,0,2
+4,17166,david,maselli,dm@soletan.com,ramona,3532,st,,Palo Alto,94306,650-858-2178,650 996-5203,30015019,Kathryn/David,Maselli,48,10,3,,Forward,10,MRP,,0,1,,0,41526.82883,70,,0,49,0,2
+4,17154,Chris,Hetterly,hetterly@sbcglobal.net,Colorado,813,Ave,,Palo Alto,94303,650-856-0516,,30008596,Chris,Hetterly,46,1,4,,Any,10,mrp,,0,1,,0,41522.93453,70,,0,38,0,2
+4,17098,Darrell,Dodge,darrelldodge@gmail.com,Ross,2590,Road,,Palo Alto,94303,9195229810,6503538879,30059919,Darrell,Dodge,44,36,3,,Fullback,11,,,0,1,M,0,41514.07746,100,,0,,1,5
+4,17157,Stefan,Kratz,skratz@gmail.com,Sutherland,4020,Dr,,Palo Alto,94303,6509194215,,30055818,Stefan,Kratz,40,8,3,,Forward,10,,,0,1,,0,41524.1201,70,,0,24,0,5
+4,17192,Chris,Johnson,cwjohnson64@gmail.com,St. Francis,2286,Dr.,,Palo Alto,94303,408-348-5299,408-867-6435,30020423,Thomas,Howard,49,7,3,,Any,8,jody1234,,0,1,,0,41533.77522,70,,0,38,0,5
+4,17303,Bruce,Kelson,bkelson@manatt.com,Pinecrest,526,Drive,,Los Altos,94024,650-964-4039,415-291-7419,,,,48,40,3,,Fullback,10,,,0,1,,0,41534.62901,80,Former club/high school player; played 1 year in college (Dartmouth).,0,6,0,5
+4,17138,Yuval,Spector,yuval.spector@gmail.com,Sonoma Terrace,832,Ter,,Palo Alto,94305,650-565-8239,650-292-4802,4342262034-4,Yuval,Spector,45,35,4,,Midfield,12,UpToUs,,0,1,,0,41519.0383,70,Played in A in the past but coming back after ACL surgery so not sure about A or B,0,26,0,5
+4,17160,Anatoly,Surdutovich,asurdutovich@gmail.com,West Bayshore,2456,Rd,4,Palo Alto,94303,4083152078,,16677222541,Anatoly,Surdutovich,42,10,4,,Fullback,8,,,0,2,,0,41526.1612,70,,0,14,0,2
+4,17320,Mark,Lazar,mark@lazarfamily.com,Fernhill,25600,Drive,,Los Altos HIlls,94024,650-346-9792,650-346-9792,,Mark,Lazar,53,35,4,,Midfield,12,,,0,1,,0,41534.63196,80,,0,35,0,2

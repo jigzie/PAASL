@@ -1,0 +1,301 @@
+Team  1 AM  : 18 players; Lvl: 3.1 [1 3 8 5 1] Games: 13.2 Age: 42.6 <30: 2 <35: 3 <45: 4 <55: 7 >55: 2 >65: 0 Goalies:1.0  D:4 F:4
+Jonathan Golub            33    E S: 3 CS: 1 C  F    14 1031       No jon.a.golub@gmail.com 
+Gary Gamitian             42    E S: 4 CS: 2    M    14 hawk       AM ggsunw@yahoo.com 
+Juan Fuentes              36    E S: 5 CS: 2    F    16 alan123    AM jlfuenteso@yahoo.com 
+alan brush                51 PA E S: 3 CS: 2    M    10 alan123    AM alanbrush@gmail.com 
+Chris Davis               31    E S: 5 CS: -    D    12            AM chrisdavis1083@gmail.com 
+Juan Garona               61    E S: 3 CS: 3    G FT 15 alan123    AM jemlgarona@gmail.com 
+Kalidip Choudhury         50 PA E S: 3 CS: 3 c* M    10            AM kalidip@yahoo.com 
+Keith Young               26    E S: 3 CS: -    D    16 keithscott AM kyoungunr@gmail.com 
+Scott Young               28    E S: 3 CS: 3    M    16 keithscott AM scott1337@hotmail.com 
+Siamak Khoubyari          45    E S: 3 CS: -    M     9            AM khoubyari@gmail.com 
+Torsten Zeppenfeld        47    E S: 4 CS: 3    M    14 steelers2014 AM tzeppy@gmail.com 
+oliver theil              47 PA E S: 4 CS: 3    D    10 steelers2014 AM otheil@sfsymphony.org 
+Alan Snyder               47 PA E S: 4 CS: 4    M    16            AM alansnyder2000@yahoo.com 
+Daniel Kim                49    E S: 4 CS: 4    F    14 b12        PM sccckim@gmail.com 
+Doug Corl                 62 PA E S: 4 CS: 4    M    14            AM dougcorl@sbcglobal.net 
+Tom Han                   43    E S: 4 CS: -    F    12 b12        No tomhan123@yahoo.com 
+brian fung                31    E S: 4 CS: 4    A    10            AM brianrfung@gmail.com 
+Jinghu Luo                37    E S: 4 CS: 5    D    15            PM luodale@gmail.com 
+
+Team  2 AM  : 17 players; Lvl: 3.1 [1 3 8 4 1] Games: 12.5 Age: 44.1 <30: 3 <35: 1 <45: 5 <55: 5 >55: 1 >65: 0 Goalies:1.0  D:4 F:3
+Tim Garrett               42    E S: 4 CS: 1    M    14 snow1265   AM lyntimgarrett@yahoo.com 
+Hermann von Bertrab       27    E S: 2 CS: -    D    16            AM hermannvonbertrab@me.com 
+Jim Stabile               52    E S: 3 CS: 2    F    10 dweebs     AM jim@planeshavings.com 
+Nick Stabile              44    E S: 3 CS: 2    M    10 dweebs     AM ns_stabile@hotmail.com 
+Austin Steacy             26    E S: 3 CS: -    M    17 bruins     No austonmartin88@gmail.com 
+Chris Waago               40    E S: 3 CS: 3    F    14            PM cwaago@hotmail.com 
+Joe Drake                 53 PA E S: 3 CS: -    M    10            AM jnldrake@pacbell.net 
+Jonathan  Lee             54    E S: 3 CS: 3    M    10            AM jlee@cendogroup.com 
+Michael Bruce             40    E S: 3 CS: 3    G FT 16 mike1234   AM mtbspam-paasl@yahoo.com 
+Stuart Reid               50    E S: 5 CS: 3    M    14 thrill22   AM stuart.reid@sbcglobal.net 
+Ted Cordery               28    E S: 4 CS: -    M    10            AM teddy.cordery@gmail.com 
+Y Nguyen                  55    E S: 3 CS: -    F    15            AM vhassy@yahoo.com 
+Andy Walsh                47    E S: 4 CS: -    D    10 dweebs     AM awalsh@nvidia.com 
+Eric Anderson             40    E S: 5 CS: 4    A    10 snow1265   AM eric@cgland.net 
+Hanan Beliak              33    E S: 4 CS: 4    M     8 hbb10      AM hananbeliak@gmail.com 
+Michael Havern            63 PA E S: 4 CS: 4 c* D    14            AM mhavern11@aol.com 
+Stephen Pappas            55    E S: 5 CS: 5    D    15            PM steve@stephenpappas.com 
+
+Team  3 AM  : 18 players; Lvl: 3.2 [1 3 7 6 1] Games: 12.8 Age: 45.6 <30: 1 <35: 1 <45: 6 <55: 7 >55: 2 >65: 0 Goalies:0.5  D:5 F:3
+Shuichiro Ohara           38    E S: 3 CS: 1    M    14 dragons    AM shuichiro.oohara@gmail.com 
+Alex Luna-Victoria        44    E S: 4 CS: 2 C* M    17 dragons    No luna_victoria@hotmail.com 
+Paul Santos               29 PA E S: 3 CS: 2    A    13            AM email.paulsantos@gmail.com 
+christophe suchet         45 PA E S: 2 CS: 2    M    14 grahambo   AM cdsuchet@comcast.net 
+Chris Frangos             55    E S: 4 CS: 3    M    14 greeks     AM christofrangos@gmail.com 
+Eugene Kubovsky           34    E S: 3 CS: -    M    17 filipok    AM eugene.kubovsky@gmail.com 
+Josh Brumm                37    E S: 3 CS: 3    F    12 grahambo   No jtbrumm@msn.com 
+Kellen Glinder            43    E S: 3 CS: -    F     6 grahambo   AM theglinders@mac.com 
+Leo Maheras               51    E S: 3 CS: 3    A    12 greeks     AM lmaheras@maheraswealthmanagement.com 
+Nikos Maheras             47    E S: 3 CS: -    F    11 greeks     AM nmaheras@yahoo.com 
+Stephen Hahn              44    E S: 3 CS: 3    A    10 dragons    AM stephen@blueslugs.com 
+Bret Dabel                51    E S: 4 CS: 4    D    12            AM bret@qss.com 
+David Gauthier            37    E S: 4 CS: 4 c  D    12 naehas     AM babar@simpleweblog.com 
+Jonathan Knight           45    E S: 5 CS: 4    A pt 14 greeks     AM jonathan@theknights.ws 
+Matthew Papakipos         45 PA E S: 4 CS: 4    D    15            AM matt@papakipos.com 
+Michael Stewart           64    E S: 4 CS: 4    M    12            PM michael.stewart@stanfordalumni.org 
+Srini Sankaran            51 PA E S: 4 CS: 4    A    13            AM srinisan@gmx.com 
+Moshe Gavrielov           60 PA E S: 5 CS: -    D    12            No moshegavrielov@gmail.com 
+
+Team  4 AM  : 19 players; Lvl: 2.9 [2 4 7 5 1] Games: 12.9 Age: 43.1 <30: 2 <35: 4 <45: 3 <55: 7 >55: 3 >65: 0 Goalies:0.5  D:4 F:4
+Hernan Goldsztein         38    E S: 2 CS: 1    M     1 hernan1234 No goldbros@hotmail.com 
+Nathan Fitzsimmons        33    E S: 1 CS: 1    F    14 erl4009    AM nathan.fitzsimmons@gmail.com "Young and quick player."
+Andrew  Trapani           29    E S: 3 CS: 2    F    17 cisco1234  AM attrapani@gmail.com 
+Danny  Trapani            29    E S: 3 CS: 2    F    17 cisco1234  No datrap03@yahoo.com 
+Mark Wheeler              47    E S: 2 CS: 2    M    14 erl4009    AM mdwheel@mfls.com 
+Mauro Garcia              40    E S: 3 CS: 2    F    12            AM mgmouser@yahoo.com 
+Adam Olshen               46 PA E S: 4 CS: 3    M    15            AM olshen@gmail.com 
+Alejandro Munoz           32    E S: 3 CS: 3    A    13            AM alejandro.munoz@gmail.com 
+Brent Blasnek             46    E S: 3 CS: 3 c* M    14 brent      AM blasnek@yahoo.com 
+Casey koulman             57 PA E S: 3 CS: 3    D    13 casey      AM caseykoulman@gmail.com 
+David Ovadia              30    E S: 3 CS: 3    M    12 cisco1234  AM ClassicDJO@yahoo.com 
+Lee Tavrow                50    E S: 4 CS: 3 c  M    15 brent      AM tavrow@comcast.net 
+Will Loach                33    E S: 4 CS: -    M pt 15            No loach.will@gmail.com 
+Andrew Young              49    E S: 4 CS: -    D     8            No andrew@an3e.org 
+Antonio Hardan            50 PA E S: 4 CS: -    D    10            No antoniohardan@yahoo.com 
+Richard Guyon             61    E S: 4 CS: 4    D    11            AM rguyon@pacbell.net 
+Steve Kelsey              53 PA E S: 4 CS: 4 c  M    14            AM kelsatmontara@aol.com 
+carlos patriawan          39    E S: 4 CS: 4    A    15            No cpatriaw@gmail.com 
+Ted Cordery               56    E S: 5 CS: -    A    15 myson      PM tcordery@itkc.com 
+
+Team  5 AM  : 17 players; Lvl: 3.0 [1 3 9 3 1] Games: 13.1 Age: 44.0 <30: 1 <35: 3 <45: 4 <55: 7 >55: 1 >65: 0 Goalies:1.0  D:4 F:4
+Gonzalo Baigorria         44    E S: 1 CS: 1    A    11            AM gbaigorr@yahoo.com 
+Eduardo del Rio           32    E S: 2 CS: -    M    15 patrick7658 No edelrio7@gmail.com 
+Eric Jensen               52 PA E S: 2 CS: 2    F    12 cooley     AM ejensen@cooley.com 
+Leo Merken                50 PA E S: 3 CS: 2 c  M    15            AM leo.merken@gmail.com 
+David Langer              46    E S: 3 CS: 3 C  D    16 cooley     AM david@L4Sinc.com 
+Jason Ko                  45    E S: 3 CS: -    D    13 jko2220    AM jassko2@gmail.com 
+Jon Criswell              41    E S: 3 CS: 3    M    14 patrick7658 AM scout7wc@gmail.com 
+Leon Su                   42    E S: 3 CS: 3    M    12            AM leonsu81@yahoo.com 
+Matt GARRATT              38 PA E S: 3 CS: -    F    12            AM matthew.garratt@gmail.com 
+Michael Shan              34    E S: 4 CS: -    G FT 12 jko2220    AM michaelleeshan@yahoo.com 
+Patrik Jonsson            49    E S: 3 CS: 3 c  M    14            AM the_address@yahoo.com 
+Scott Stimson             48    E S: 3 CS: 3    F    10            AM scott.stimson@gmail.com 
+Thierry Hernoult          55    E S: 3 CS: 3    M    13            AM t.hernoult@comcast.net 
+Calvin Finch              54    E S: 4 CS: 4 c* D    12 cooley     AM cfinch@cpp.com 
+Honglu Du                 30    E S: 3 CS: 4    F    12            No honglu.du@gmail.com 
+Jan Maarse                29 PA E S: 4 CS: 4    M    16 patrick7658 AM jmaarse@gmail.com 
+John Bors                 59    E S: 5 CS: 5    D    14            AM bors@chemcosystems.com 
+
+Team  6 AM  : 18 players; Lvl: 3.1 [1 4 7 5 1] Games: 13.3 Age: 44.8 <30: 0 <35: 4 <45: 5 <55: 8 >55: 0 >65: 1 Goalies:0.5  D:4 F:3
+Efren Garcia-Campos       42 PA E S: 3 CS: 1    M    15 campos     AM efrengarciacampos@yahoo.com 
+Ashot Andreasyan          49    E S: 1 CS: 2    M    17 moca       AM ashota@hotmail.com 
+Douglas Boyes             49    E S: 2 CS: -    F    17            AM blueparis@gmail.com 
+Melesio Campos            54 PA E S: 3 CS: 2    D    11 campos     AM jesslynnerose@yahoo.com 
+Nariman Shariat           32    E S: 3 CS: 2    M    14 blue1234   AM narimanshariat@yahoo.com 
+Ismael  Rivera            33    E S: 4 CS: -    M    13 bandit     AM stufdptato@hotmail.com 
+Jim Scheinman             48    E S: 3 CS: 3    M    11 blue       AM jim@scheinman.net 
+Kevin Chong               32    E S: 5 CS: 3 C  F    17 bandit     AM kchong7125@gmail.com 
+Morten Green              53    E S: 3 CS: 3 c* M    12 morten     AM morten@green-smith.net 
+Pawan Bhatia              38    E S: 3 CS: -    F    17 moca       AM bhatiap@gmail.com 
+Russell Nord              37    E S: 3 CS: 3    M    10 morten     AM russ.nord@gmail.com 
+fred smith                77    E S: 3 CS: 3    D    15            No fredsmith11460@comcast.net 
+Carsten Ribbe             50 PA E S: 4 CS: 4    D    10 blue       AM cribbe@ssi.samsung.com 
+Earl Grogan               43    E S: 3 CS: 4    M pt 15            No yankeeh8er4ever@gmail.com 
+Matt DuBois               32    E S: 5 CS: 4    A     9 bandit     AM mattddubois@gmail.com 
+Michael Drews             42 PA E S: 4 CS: 4    A    10 morten     No mikedrews@sbcglobal.net 
+Paul Huard                45 PA E S: 5 CS: 4    D    10 blue       No huard@yahoo.com 
+sungho kim                51 PA E S: 5 CS: 5    M    16 fifa2014   AM sungho63@gmail.com 
+
+Team  7 AM  : 18 players; Lvl: 3.0 [1 5 6 5 1] Games: 12.3 Age: 44.6 <30: 0 <35: 3 <45: 4 <55: 8 >55: 2 >65: 0 Goalies:0.5  D:5 F:4
+Nathan Clark              31    E S: 2 CS: 1    F    15 macs       AM theman6667@yahoo.com Young & skilled.
+Alfredo Ramirez           48    E S: 3 CS: 2    F    17 soccer2020 AM futbol_sandiego@yahoo.com 
+Mattice Harris            43    E S: 2 CS: -    M    17 greeks     AM mf_harris@msn.com 
+Ricardo Cardenas          46    E S: 2 CS: 2    A    11 lkjhg12#   AM rcardenas12468@gmail.com 
+Rigoberto Cardenas        46    E S: 2 CS: 2    A    11 lkjhg12#   AM rcardenas12468@gmail.com 
+Steve Altus               45    E S: 4 CS: 2    F    12 estimate   AM steve_altus@yahoo.com 
+Andy Velasquez            31    E S: 3 CS: -    F    10 macs       AM mcewok@gmail.com 
+Ian du Mee                31    E S: 3 CS: -    D     9 macs       AM iandumee@gmail.com 
+James Cook                47 PA E S: 3 CS: 3 C* M     1            AM jamesfelixcook@yahoo.com 
+Kyle McMartin             36    E S: 5 CS: 3    D    10            AM kyle.l.mcmartin@gmail.com 2012: Good Defender
+Tim Flagg                 55 PA E S: 5 CS: 3    M    17            AM tim.flagg@gmail.com 
+marco demiroz             57    E S: 4 CS: 3    A     9            AM marco@demiroz.com 
+Alexander Loktev          38 PA E S: 4 CS: 4    M    10 loktev     AM sasha.loktev@gmail.com 
+Andrei Popovici           41    E S: 4 CS: 4 c  M    12            AM andrei@apatent.com 
+Bob Jenkins               52    E S: 4 CS: 4    D    14            AM bjenkins1962@att.net 
+Paul Holzhauser           60    E S: 4 CS: 4    D pt 15 estimate   AM paul@mathewscarlsen.com 
+Walter Norm Leclerc       49 PA E S: 4 CS: -    M    16            AM leclercs@sbcglobal.net 
+Elliot Weil               46    E S: 5 CS: 5    A    15            AM lglzdgmbln@yahoo.com 
+
+Team  8 AM  : 18 players; Lvl: 2.9 [2 3 9 3 1] Games: 12.9 Age: 43.7 <30: 1 <35: 2 <45: 5 <55: 9 >55: 0 >65: 1 Goalies:0.5  D:4 F:4
+JT Martinez               38    E S: 2 CS: 1    F    10 quad-core  AM jtmartinez76@hotmail.com 
+Jigz Mehta                37    E S: 1 CS: 1    F    10 quad-core  AM jigziee@gmail.com Maybe duplicate
+Emiliano Martinez         36    E S: 3 CS: 2 C  M    13 tinez      AM minomtz@gmail.com 
+John Keenan               49    E S: 3 CS: 2    M    17            AM jkeenan1000@gmail.com 
+Thomas Boyd               45    E S: 4 CS: 2    M    13            AM thomas.boyd@gmail.com 
+Ali Ozer                  51    E S: 4 CS: 3    M    17            AM aozer@mac.com 
+Barry Hart                49 PA E S: 3 CS: 3    D    10            No hartb88@yahoo.com 
+Gabriel Martinez          32    E S: 3 CS: -    M    14 tinez      AM gabe.martinez@gmail.com 
+Kenneth Heller            46    E S: 3 CS: -    F    12 soccer2020 No kenheller@msn.com 
+Larry Yang                48    E S: 3 CS: 3    M    16 quad-core  No lsm177@yahoo.com 
+Marius Dumitran           29    E S: 5 CS: 3    F     3 romania    PM daniel_dumitran@yahoo.com 
+Octavian Dumitran         31    E S: 3 CS: 3    M    12 romania    AM daniel.dumitran@gmail.com 2012: Young & developing
+Sean Holbak               37    E S: 3 CS: 3    M    17            AM sth2424@gmail.com 
+Tom Gama                  47    E S: 3 CS: - c  M    14 quadcore   No tjgama@att.net 
+Mark Padilla              40    E S: 4 CS: -    A    13            No padillam@yahoo.com 
+Robert Koeten             50    E S: 3 CS: 4    D pt 15            AM rob@koeten.net 
+william mayfield          70 PA E S: 4 CS: - C* D    12            No wbmayfield@att.net 
+Russell Jones             51 PA E S: 5 CS: 5    D    15 withchuck  AM russellkjones@gmail.com 
+
+Team  9 Any : 18 players; Lvl: 3.1 [1 3 9 3 2] Games: 12.9 Age: 44.8 <30: 1 <35: 3 <45: 5 <55: 6 >55: 3 >65: 0 Goalies:1.0  D:4 F:3
+Michael Turner            42    E S: 2 CS: 1    G FT 10 dexter     No keeper0@yahoo.com 
+Andrew Karam              32 PA E S: 3 CS: 2    A    12 chumpchange No andrew.karam@gmail.com 
+Boris Murmann             44 PA E S: 3 CS: 2    M    13            AM murmann@stanford.edu 
+Martin McNealis           47 PA E S: 4 CS: 2    M    12 gooners    No martin.mcnealis@gmail.com 
+Bruce Kelson              49    E S: 3 CS: -    D    12            No bkelson@manatt.com 
+Hamid Arjomand            34    E S: 3 CS: -    M    17 ham11      AM hamidarj@gmail.com 
+Joe Neil                  63    E S: 5 CS: 3    A    10 drew1234   No josephneil@gmail.com 
+Kim Limbrick              52 PA E S: 4 CS: 3    M    12 gooners    AM kim.limbrick@gmail.com 
+Nathan Yan                26    E S: 4 CS: - c  D    17            PM thedailynathan@gmail.com 
+Ryan Findley              38    E S: 2 CS: 3 c* D    17 dexter     No findleyr@sonic.net 
+Stefan Kratz              41 PA E S: 3 CS: 3    F    10            No skratz@gmail.com 
+Stephen More              33    E S: 3 CS: -    M    17            No smore54@hotmail.com 
+jurek aleksander          43 PA E S: 3 CS: -    M     8            No hdstudy@aol.com 
+George Demienne           58    E S: 4 CS: 4 C  F    10 gd         AM george@svdirect.com 
+Loren Hillberg            56    E S: 4 CS: -    M    18 gd         No lhillberg@gmail.com 
+Tmothy Misner             51 PA E S: 5 CS: 4    D     9 gooners    No timothymisner@aya.yale.edu 
+bart decrem               47 PA E S: 5 CS: -    A    12            No bdecrem@gmail.com 
+birol becan               50    E S: 5 CS: 5    F    16 dikenbecan AM birolbecan@gmail.com 
+
+Team 10 Any : 19 players; Lvl: 2.9 [2 4 8 4 1] Games: 13.5 Age: 43.1 <30: 1 <35: 4 <45: 6 <55: 6 >55: 1 >65: 1 Goalies:0.5  D:5 F:3
+Gui Bastos                40 PA E S: 4 CS: 1    M    17 mzmb       No guibastos@gmail.com 
+Gui Bastos                40 PA E S: 4 CS: 1    M    17 mzmb       No guibastos@gmail.com 
+Edward Chien              40    E S: 2 CS: 2 c  M    17 fc94404    AM edchien@cs.stanford.edu 
+Paco Herrero              43    E S: 3 CS: 2    D    12            AM herreropaco@netscape.net 
+Si Yi Khoo                34    E S: 3 CS: 2    M    12 sjs2011    AM skhoo368@yahoo.com 
+Son Ho                    53    E S: 3 CS: 2 C  F    14 sjs2011    No son_ho@pacbell.net 
+Emmanuel Rosa             28    E S: 3 CS: - c  M    15            No emmanuel-rosa@live.com 
+Gunes Dervisoglu          31    E S: 3 CS: -    D    12 eses26     AM mandahulusi@hotmail.com 
+Justin Welsh              51    E S: 3 CS: 3    M     9 water      No Justinlw@earthlink.net 
+Rob Krolik                46 PA E S: 3 CS: 3    D    13            AM rkrolik@sbcglobal.net 
+Robert Morell             30    E S: 3 CS: 3    M    14            PM bobmorell@gmail.com 
+Roger Pierno              56 PA E S: 3 CS: 3    M    14            AM rpierno@valleywater.org 
+Steven Klotz              50    E S: 3 CS: - c  F    16            AM klotzs@sbcglobal.net 
+chris manton              47    E S: 3 CS: -    A    12            AM cmanton@gmail.com 
+Andy Ramans               46    E S: 4 CS: -    M     9 brent/tavrow AM andy@ramanz.com 
+Emrehan Kirimli           31    E S: 3 CS: 4 c  D    15 eses26     No emrehan_tr@yahoo.com 
+Helcio Nobre              42    E S: 4 CS: 4    M    10 mzmb       No helcio.nobre@gmail.com 
+Jose Garay                42    E S: 4 CS: -    F    17            No Garayjose2012@gmail.com 
+W Ron Sutton              68    E S: 4 CS: 5 c* D pt 12 ptown2     AM wronsutton@gmail.com 
+
+Team 11 Any : 18 players; Lvl: 3.1 [1 3 8 5 1] Games: 12.9 Age: 44.5 <30: 0 <35: 3 <45: 5 <55: 8 >55: 2 >65: 0 Goalies:1.0  D:4 F:4
+Pawel Kaminski            33    E S: 3 CS: 1    M    12            No kamienpl@gmail.com 
+Bob Pratt                 47 PA E S: 3 CS: 2 C* F    16 skiutah    No rpratt@stanfordalumni.org 
+Matthew Zises             40    E S: 2 CS: 2    A    15            PM mzises@me.com 
+Nicholas Enthoven         46    E S: 2 CS: -    F    15            No nick.enthoven@gmail.com 
+Anthony Law               51 PA E S: 4 CS: 3    D    13            No anthonyhc_law@msn.com 
+Carlos Cabezas            37    E S: 3 CS: -    M    14 pgroup     No cabezas@stanford.edu 
+Graham Rodwell            45 PA E S: 3 CS: -    M     9 ray3825    No gejrodwell@me.com 
+Leo Centeno               48 PA E S: 5 CS: 3    A     6            No leolaura_2000@yahoo.com 
+Leon Leong                58 PA E S: 5 CS: 3 c  D    10            AM lyleong@pacbell.net 
+Nicholas Keehn            30    E S: 3 CS: -    M    15            No ecthelionv@gmail.com 
+Patrick Sweeney           51 PA E S: 3 CS: -    M    12 ray3825    AM psweeney@sonicwall.com 
+Raúl Contreras            33    E S: 3 CS: -    M    17            PM raulch21@hotmail.com 
+Antonino Cacace           41    E S: 4 CS: -    F    13            No trafalgartony@hotmail.com 
+Glenn Scheitrum           65    E S: 5 CS: 4    M    14            AM glennscheitrum@gmail.com 
+Jason Laskowski           37    E S: 4 CS: -    A    17 ray3825    No jaslaskow@gmail.com 
+Jonathan Chen             47 PA E S: 4 CS: -    D pt  8 mn23       No jcpaloalto@gmail.com 
+Malcolm Fleschner         44 PA E S: 4 CS: -    F pt 14            No witneyfest@aol.com 
+Ray Lin                   48 PA E S: 5 CS: 5    D    13 ray3825    AM raylin@gmail.com 
+
+Team 12 Any : 18 players; Lvl: 2.9 [1 4 9 3 1] Games: 13.1 Age: 42.9 <30: 1 <35: 4 <45: 5 <55: 6 >55: 2 >65: 0 Goalies:0.0  D:4 F:5
+Ralph Lewis               46 PA E S: 3 CS: 1    F     8 pv2468     No RalphLewisconstruction@gmail.com 
+Branimir Milinkovic       40 PA E S: 2 CS: -    M    16 layne94306 AM mlukamina@gmail.com 
+Gulliver LaValle          41 PA E S: 2 CS: -    F    13 pv2468     No gulliverorama@gmail.com 
+Pierfrancesco Landolfi    44 PA E S: 2 CS: 2    D    14            AM ziopiero70@yahoo.com 
+andres aldrete            51    E S: 2 CS: -    D    16            AM amaldrete63@gmail.com 
+Alper Ilkbahar            47    E S: 4 CS: 3    D     8 atesli     AM alper@sbcglobal.net 
+Ates Gurcan               51    E S: 3 CS: 3 c  F    15 atesli     AM hagurcan@comcast.net 
+Bruno Evangelista         29    E S: 4 CS: -    M    12 qwerty     AM bpevangelista@gmail.com 
+Fernando Nocedal          62    E S: 4 CS: 3 c* M    15            No fnocedal@yahoo.com 
+Hamid Salehizadeh         51    E S: 3 CS: 3    M    16            AM hamid_salehizadeh@yahoo.com 
+Mike Fabian               46 PA E S: 3 CS: 3    F    10 pv2468     No Mbfabian@gmail.com 
+Ollie Podolyan            33 PA E S: 4 CS: -    M    15 layne94306 AM opodolyan27@gmail.com 
+Omar Alnaggar             30 PA E S: 3 CS: -    M    15 atesli     AM omar.naggar@gmail.com 
+Romain Madelaine          31 PA E S: 3 CS: -    M    10 layne94306 No romain.madelaine@stanford.edu 
+Alex Limberis             59    E S: 4 CS: 4    F    10            AM alex@limberis.net 
+Frank Stutz               40    E S: 4 CS: 4    D    14            No frank@franksplace.net 
+Ramin Safaie              38    E S: 4 CS: -    M    14            No raminsaf@gmail.com 
+Tony Parker               34    E S: 4 CS: 5    A    15            PM parkeras@gmail.com 
+
+Team 13 Any : 17 players; Lvl: 3.0 [1 3 9 3 1] Games: 12.7 Age: 44.9 <30: 0 <35: 3 <45: 5 <55: 4 >55: 4 >65: 0 Goalies:0.5  D:4 F:4
+Brian  Purchia            34    E S: 2 CS: 1    F    10 14221      AM brianpurchia@gmail.com 
+Des Baker                 48    E S: 4 CS: 2    F    14            AM des.baker@sbcglobal.net 
+Jay Jacinto               35    E S: 2 CS: 2    M    14 b47        No manjingo@gmail.com 
+Robert Blau               37    E S: 2 CS: -    M    13 gais2013   AM robert@robertblau.de 
+Bahram Dahi               37    E S: 3 CS: - c  A    16            No xivxix@gmail.com 
+Fuad Abu Nofal            56    E S: 3 CS: 3    A    12            No fabunofal@yahoo.com 
+Kaveh Badiei              39    E S: 3 CS: 3 c* M    12 gais2013   AM kbadiei@rutan.com 
+Marc Joseph               59    E S: 4 CS: 3    D    13 14221      PM marc.joseph@sbcglobal.net 
+Marcelo Clerici-Arias     49 PA E S: 5 CS: 3    D    10            No marcelo@stanford.edu 
+Roshan Baliga             33    E S: 4 CS: -    D    13            AM roshan@alum.mit.edu 
+Timothy Shappart          30    E S: 3 CS: 3    M    12 b47        PM tshappart@gmail.com 
+Victor Coronado           55 PA E S: 3 CS: 3    M    15            AM viedcote@gmail.com 
+robert blatman            59 PA E S: 4 CS: 3    F    15            PM rgblatman@aol.com 
+John Carlstrom            49 PA E S: 5 CS: 4    M pt  9 gooner     No john.y.carlstrom@gmail.com 
+Kevin Dyche               46    E S: 3 CS: 4    A    15 mberry2    AM kdyche2@gmail.com 
+brent seybold             42    E S: 4 CS: -    A    14 mberry2    No brent.seybold@gmail.com 
+Hilario Jauregui          56    E S: 5 CS: 5    F     9            AM rwcjauregui@gmail.com 
+
+Team 14 Any : 18 players; Lvl: 3.1 [1 3 9 4 1] Games: 12.9 Age: 43.7 <30: 2 <35: 1 <45: 7 <55: 6 >55: 2 >65: 0 Goalies:0.0  D:4 F:4
+Graham Dresden            39 PA E S: 3 CS: 1 c  M    17 magoo      No gdresden@gmail.com 
+Blake Parkinson           29    E S: 2 CS: 2    F    14 blake      No wizardplow@gmail.com 
+Samuel Lada               38 PA E S: 4 CS: 2    M    12 magoo      AM samlada@gmail.com 
+Scott Sutherland          39    E S: 2 CS: 2 C* M    15 magoo      No suthersm@stanford.edu 
+Brandon Graffeo           40 PA E S: 3 CS: 3    M    10 mrp        No mbgraffeo@gmail.com 
+Bruce Graham              54 PA E S: 3 CS: 3    M    10            No graham.brucek@gmail.com 
+Daniel Lai                32 PA E S: 4 CS: -    A    12            No danklai@hotmail.com 
+Jim Tooley                51    E S: 3 CS: 3 c  M    14            AM jtooley@aol.com 
+John Boessenecker         61    E S: 4 CS: 3    M    16 fc11       PM jboess@comcast.net 
+Marc Schoenen             38 PA E S: 3 CS: 3    D    10            No mschoenen@google.com 
+Neil Bondre               28    E S: 3 CS: - c  D    13            AM nbondre@ucla.edu 
+Tracy Thonn               52    E S: 3 CS: 3    F    15            PM tracy@thonn.com 
+david maselli             49 PA E S: 3 CS: 3    F    10 mrp        No dm@soletan.com 
+Chris Hetterly            47 PA E S: 4 CS: 4    A    10 mrp        No hetterly@sbcglobal.net 
+Nejat Kamaci              40    E S: 4 CS: -    D    15 neha1234   No nejat_kamaci@yahoo.com 
+Pastor  Guzman            54    E S: 4 CS: -    M    17 pastor7582 No pguzman@seq.org 
+marc boxser               36 PA E S: 4 CS: -    F    10            No marcboxser@gmail.com 
+Alan Schenck              59    E S: 5 CS: 5    D    12            No aschenck771@gmail.com 
+
+Team  1 AM  : 18 players; Lvl: 3.1 [1 3 8 5 1] Games: 13.2 Age: 42.6 <30: 2 <35: 3 <45: 4 <55: 7 >55: 2 >65: 0 Goalies:1.0  D:4 F:4
+Team  2 AM  : 17 players; Lvl: 3.1 [1 3 8 4 1] Games: 12.5 Age: 44.1 <30: 3 <35: 1 <45: 5 <55: 5 >55: 1 >65: 0 Goalies:1.0  D:4 F:3
+Team  3 AM  : 18 players; Lvl: 3.2 [1 3 7 6 1] Games: 12.8 Age: 45.6 <30: 1 <35: 1 <45: 6 <55: 7 >55: 2 >65: 0 Goalies:0.5  D:5 F:3
+Team  4 AM  : 19 players; Lvl: 2.9 [2 4 7 5 1] Games: 12.9 Age: 43.1 <30: 2 <35: 4 <45: 3 <55: 7 >55: 3 >65: 0 Goalies:0.5  D:4 F:4
+Team  5 AM  : 17 players; Lvl: 3.0 [1 3 9 3 1] Games: 13.1 Age: 44.0 <30: 1 <35: 3 <45: 4 <55: 7 >55: 1 >65: 0 Goalies:1.0  D:4 F:4
+Team  6 AM  : 18 players; Lvl: 3.1 [1 4 7 5 1] Games: 13.3 Age: 44.8 <30: 0 <35: 4 <45: 5 <55: 8 >55: 0 >65: 1 Goalies:0.5  D:4 F:3
+Team  7 AM  : 18 players; Lvl: 3.0 [1 5 6 5 1] Games: 12.3 Age: 44.6 <30: 0 <35: 3 <45: 4 <55: 8 >55: 2 >65: 0 Goalies:0.5  D:5 F:4
+Team  8 AM  : 18 players; Lvl: 2.9 [2 3 9 3 1] Games: 12.9 Age: 43.7 <30: 1 <35: 2 <45: 5 <55: 9 >55: 0 >65: 1 Goalies:0.5  D:4 F:4
+Team  9 Any : 18 players; Lvl: 3.1 [1 3 9 3 2] Games: 12.9 Age: 44.8 <30: 1 <35: 3 <45: 5 <55: 6 >55: 3 >65: 0 Goalies:1.0  D:4 F:3
+Team 10 Any : 19 players; Lvl: 2.9 [2 4 8 4 1] Games: 13.5 Age: 43.1 <30: 1 <35: 4 <45: 6 <55: 6 >55: 1 >65: 1 Goalies:0.5  D:5 F:3
+Team 11 Any : 18 players; Lvl: 3.1 [1 3 8 5 1] Games: 12.9 Age: 44.5 <30: 0 <35: 3 <45: 5 <55: 8 >55: 2 >65: 0 Goalies:1.0  D:4 F:4
+Team 12 Any : 18 players; Lvl: 2.9 [1 4 9 3 1] Games: 13.1 Age: 42.9 <30: 1 <35: 4 <45: 5 <55: 6 >55: 2 >65: 0 Goalies:0.0  D:4 F:5
+Team 13 Any : 17 players; Lvl: 3.0 [1 3 9 3 1] Games: 12.7 Age: 44.9 <30: 0 <35: 3 <45: 5 <55: 4 >55: 4 >65: 0 Goalies:0.5  D:4 F:4
+Team 14 Any : 18 players; Lvl: 3.1 [1 3 9 4 1] Games: 12.9 Age: 43.7 <30: 2 <35: 1 <45: 7 <55: 6 >55: 2 >65: 0 Goalies:0.0  D:4 F:4
+Waiting list of 0 players
+Equipment order
+Small                  :   2
+Medium                 :  11
+Large                  :  13
+XL                     :   3
+XXL                    :   0
+socks                  :   0
